@@ -1,7 +1,7 @@
 # 🎯 BLOQUEADORES DETALHADOS + ACIONÁVEIS GERENCIAIS
-**Período:** 28/04 - 18/05/2026  
+**Período:** 28/04 - 01/06/2026  
 **Para:** Gestor de Especialista  
-**Status:** 58 demandas mapeadas (update 15/05-18/05)
+**Status:** 95 demandas mapeadas (update completo 20/05-01/06)
 
 ---
 
@@ -9,480 +9,635 @@
 
 | Métrica | Total |
 |---------|-------|
-| **Total de Demandas** | 58 |
-| **✅ Finalizadas** | 35 |
-| **⌚ Aguardando** | 14 |
-| **🕵️ Investigação** | 6 |
+| **Total de Demandas** | 95 |
+| **✅ Finalizadas** | 70 |
+| **⌚ Aguardando** | 15 |
+| **🕵️ Investigação** | 8 |
 | **🗓️ Agendadas** | 2 |
-| **📚 Estudos/Brainstorm** | 1 |
 
-**Taxa de Conclusão:** 60% | **Acompanhamento Ativo:** 38%
+**Taxa de Conclusão:** 74% | **Acompanhamento Ativo:** 24%
 
 ---
 
-## 🚨 BLOQUEADORES CRÍTICOS ATUALIZADOS (18/05)
+## 🚨 BLOQUEADORES CRÍTICOS ATUALIZADOS (01/06)
 
 | # | Demanda | Status | Bloqueador | Prazo | Ação Gerencial |
 |---|---------|--------|-----------|-------|----------------|
-| 🔴 P1 | **Martech - Fila Saturada** | 🚧 Crítico | 8+ demandas na fila | **Indefinido** | ⚠️ Realinhamento urgente |
-| 🔴 P2 | **Migração RH ↔ Shenlong** | ⌚ Bloqueado | Martech testa, ainda não funciona | **Indefinido** | 🔧 Escalar técnico |
-| 🔴 P3 | **Evento Tiktok** | 🕵️ Investigando | Sid investigando impacto | **Indefinido** | ⌚ Acompanhar |
-| 🟠 P4 | **LP Pay Day** | ✅ Progresso | Papéis definidos, pronto deploy | **06/06** | 📅 Acompanhar |
-| 🟠 P5 | **Netflix Troca Base** | ✅ Progresso | Jurídico/Privacy em processo | **Início junho** | 📋 Acompanhar |
-| 🟠 P6 | **Globo DTV RACI** | ✅ Finalizado | Estrutura definida | **18/05 ✅** | 📊 Acompanhar execução |
-| 🟠 P7 | **Passback Tiktok** | 🗓️ Agendado | Rafa liderando, dance da cadeira | **Semana que vem** | 📞 Alinhamento Rafa |
-| 🟠 P8 | **Appsflyer PII/CUID** | 🗓️ Agendado | Rito priorização 11/05 | **Definir data** | ✅ Confirmar progresso |
-| 🟠 P9 | **Bloqueios de Cupons** | 🕵️ Investigando | 6 cupons telefonia, processo criado | **Indefinido** | 📋 Implementar controle |
-| 🟠 P10 | **Bloqueio Subcategorias** | ⏸️ Pausado | Fila Martech zerada | **Indefinido** | 🏃 Quando Martech liberar |
+| 🔴 P1 | **Netflix Contrato - Falhas Jurídicas** | ⚠️ Crítico | Liveramp emitiu contrato c/ graves falhas | **Indefinido** | ⚖️ Escalação legal URGENTE |
+| 🔴 P2 | **Acesso Lucas SEO - Kirk Flow Confuso** | 🕵️ Travado | Help Desk novo fluxo não claro | **Indefinido** | 📞 Pressionar Help Desk |
+| 🔴 P3 | **Vídeos Tiktok Baixa Qualidade** | 🕵️ Investigando | Múltiplos vídeos com qualidade baixa | **Crítico** | ⌚ Aguardando Tiktok PO |
+| 🔴 P4 | **Erro Deeplink iOS + Android** | 😶 Crítico | Emulação não funciona, sem log | **Indefinido** | 💻 Labs + Tiktok alinhados |
+| 🔴 P5 | **Acesso LP Pay Day Dev** | 🕵️ Travado | Dev perdeu acesso, helpdesk travado | **Indefinido** | 📞 Help Desk urgente |
+| 🟠 P6 | **Teste Busca X PDP** | 🗓️ Agendado | Inicia 05/06, página alerta fora do ar | **05/06** | ✅ Validar antes de iniciar |
+| 🟠 P7 | **Globo DTV** | 🗓️ Agendado | Acompanhamento 07/06, API 12/07 | **07/06** | 📋 Acompanhar execução |
+| 🟠 P8 | **Imersão IA Mari** | 🗓️ Agendado | MVP curva saturação + projeção invest | **Segunda** | 📊 Suportar construção |
+| 🟠 P9 | **Data Strenght DP6** | ⌚ Aguardando | Mat vai dar acesso (Leo não conseguiu) | **Indefinido** | ⌚ Aguardando Mat |
+| 🟠 P10 | **Pixel Spotify** | ⌚ Recobrança 2x | Cobrado 2x, sem resposta | **Urgente** | 📧 Escalação parceiro |
 
 ---
 
-## 📅 TIMELINE COMPLETA - ÚLTIMAS 2 SEMANAS
+## 📅 TIMELINE COMPLETA - PERÍODO 20/05 A 01/06
 
-### **SEMANA 3: 15/05**
+### **SEMANA 1: 20/05**
 
-#### ✅ Finalizadas (4)
-- ✅ Investigação Cupons TEL (documento gerado + sugestão processo)
-- ✅ Alinhamento Kwai (agenda 21/05 agendada)
-- ✅ Netflix Troca Base (agenda jurídico/privacy marcada)
-- ✅ Documento Landing Page Hub (processo explicado)
-
-#### 🕵️ Investigação (2)
-- 🕵️ Evento Tiktok (em investigação, documentando)
-- 🕵️ Alinhamento Landing Page (aguardando Danilo)
-
-#### 🗓️ Agendadas (2)
-- 🗓️ Passback Tiktok (entendimento Rafa Diniz)
-- 🗓️ Globo DTV (devolutiva segunda)
-
----
-
-### **SEMANA 4: 18/05**
-
-#### ✅ Finalizadas (4)
-- ✅ RACI Globo DTV (executada formato DTV)
-- ✅ Abertura Semanal (case e slides)
-- ✅ Conselho Retorno Cohen (imersão + documento)
-- ✅ LP Pay Day (documento RACI finalizado)
+#### ✅ Finalizadas (6)
+- ✅ Acesso Carla SEO (alinhamento Mardem)
+- ✅ Treinamento Appsflyer (cobrança)
+- ✅ Bloqueio Imagem Anômala (IA + Shenlong)
+- ✅ Iniciação IA Time (3P + 4P)
+- ✅ Bloqueio Cupom TEL220
+- ✅ Conselho Cris (SEO + Influenciadores)
 
 #### 🕵️ Investigação (1)
-- 🕵️ Evento Tiktok (Sid voltou, ajudando investigação)
+- 🕵️ Erro Deeplink Tiktok (identificado: HOME + iOS)
 
 #### ⌚ Aguardando (1)
-- ⌚ Migração RH ↔ Shenlong (Martech ajustes não funcionaram)
+- ⌚ LP Pay Day Junho (Monks + Take)
+
+#### 🗓️ Agendadas (1)
+- 🗓️ Martech Priorização (apresentar semana que vem)
+
+---
+
+### **SEMANA 2: 21/05**
+
+#### ✅ Finalizadas (6)
+- ✅ Treinamento Appsflyer (finalizado)
+- ✅ Erro Tiktok DESCOBERTO (alinhado com Pedro + Jonathan)
+- ✅ Iniciação IA Brandformance
+- ✅ Kwai Reunião (roadmap)
+- ✅ Planilha Estoque Kwai (diária)
+- ✅ Globo DTV (status Felipe)
+
+#### ⌚ Aguardando (1)
+- ⌚ LP Pay Day Junho (Monks + Promo)
+
+#### 🗓️ Agendadas (1)
+- 🗓️ Tiktok Android Erro (agenda terça)
+
+---
+
+### **SEMANA 3: 22/05**
+
+#### ✅ Finalizadas (4)
+- ✅ Alinhamento Google Martech (Arthur ausente casamento)
+- ✅ Processo LP Julho (Ogilvy responsável pós-Monks)
+- ✅ Alinhamento Meta próximas iniciativas
+- ✅ DP6 Proposta Appsflyer (consultoria hands-on)
+
+#### 🗓️ Agendadas (1)
+- 🗓️ LP Junho Promo (entrega final hoje)
+
+---
+
+### **SEMANA 4: 25/05**
+
+#### ✅ Finalizadas (1)
+- ✅ DP6 Proposta Appsflyer (bullet points casos)
+
+#### ⌚ Aguardando (3)
+- ⌚ Acesso Lucas SEO (Kirk flow sem previsão)
+- ⌚ Data Strenght (Leo → Mat vai dar)
+- ⌚ Tiktok Android Erro (Deivid + Wander)
+
+#### 🗓️ Agendadas (1)
+- 🗓️ LP Pay Day (previsto 02/06 manhã)
+
+---
+
+### **SEMANA 5: 26/05**
+
+#### ✅ Finalizadas (5)
+- ✅ LP Pay Day (liberação brandformance)
+- ✅ Erro Tiktok (Labs + Sid confirmados)
+- ✅ Acesso Lucas SEO (aprovações superiores)
+- ✅ Imersão Catálogo (Data Analytics)
+- ✅ Consent Mode GA (briefing CRM)
+- ✅ Alinhamento Akira (Consent, Tester, Partnership, Events)
+
+#### ⌚ Aguardando (3)
+- ⌚ Netflix Contrato (jurídico retorno)
+- ⌚ Evento Purchase Appsflyer (investigação)
+- ⌚ Pixel Spotify (recobrança)
+
+#### 📚 Estudos (1)
+- 📚 Automatização Power BI (avaliando possibilidades)
+
+---
+
+### **SEMANA 6: 28/05**
+
+#### ✅ Finalizadas (3)
+- ✅ Pinterest Vídeos Custom (Rosa)
+- ✅ Microsoft Apresentação (mensuração)
+- ✅ Globo DTV (lista teste antecipada)
+
+#### 🕵️ Investigação (3)
+- 🕵️ Acesso LP Pay Day (erro email dev)
+- 🕵️ Acesso Lucas SEO (Kirk flow)
+- 🕵️ Erro Tiktok Vídeos (qualidade baixa)
+- 🕵️ Erro Deeplink (emulação não funciona)
+
+#### 🗓️ Agendadas (1)
+- 🗓️ Netflix Jurídico (segunda-feira aprofundar)
+
+---
+
+### **SEMANA 7: 29/05**
+
+#### ✅ Finalizadas (3)
+- ✅ Onboarding Helena
+- ✅ Redução LIA na conta (ajuste PLA)
+- ✅ Globo DTV (lista teste + onelinks)
+
+#### 🕵️ Investigação (2)
+- 🕵️ Acesso LP Pay Day (dev abrir helpdesk)
+- 🕵️ Acesso Lucas SEO (helpdesk)
+- 🕵️ Erro Deeplink iOS (suporte Monks + Akira)
+- 🕵️ Ratings Google ("not enabled")
+
+#### 🗓️ Agendadas (1)
+- 🗓️ Imersão IA Mari (MVP primeira devolutiva segunda)
+
+---
+
+### **SEMANA 8: 01/06**
+
+#### ✅ Finalizadas (4)
+- ✅ Destaque do Mês (recebido)
+- ✅ LP Junho (alinhado SEO)
+- ✅ Acesso Lucas SEO (SSO finalizado, email Turia pendente)
+
+#### 🕵️ Investigação (2)
+- 🕵️ Acesso Lucas SEO (Help Desk aguardando)
+- 🕵️ Acesso LP Pay Day (helpdesk)
+
+#### ⌚ Aguardando (4)
+- ⌚ Netflix Contrato (aprovação segurança + jurídico)
+- ⌚ Vídeos Tiktok (qualidade)
+- ⌚ Magalupay destaque (próximos passos)
 
 #### 🗓️ Agendadas (2)
-- 🗓️ Netflix Jurídico/Privacy (previsto junho)
-- 🗓️ Passback Tiktok (semana que vem com Rafa)
+- 🗓️ Teste Busca X PDP (inicia 05/06)
+- 🗓️ Globo DTV (acompanhamento 07/06)
 
 ---
 
 ## 📊 ANÁLISE DETALHADA - BLOQUEADORES CRÍTICOS
 
-### **🔴 CRÍTICO #1: MARTECH - FILA SATURADA (Continua)**
+### **🔴 CRÍTICO #1: NETFLIX CONTRATO - FALHAS JURÍDICAS GRAVES**
 
-**Status:** Ainda crítico com novas demandas
+**Situação:**
+- ⚠️ Liveramp emitiu contrato com **GRAVES FALHAS**
+- 🔴 **Atualização automática do contrato NÃO definida** (risco de perder acesso)
+- 🔴 **Gestão de contrato em juízo APENAS na França** (problema internacional)
+- 🔴 **Multa de 3X do valor pago** se houver problema
+- 🔴 **Primeiros meses são GRÁTIS** → Se der problema = pagamos 3x sem receita!
+- 🔴 **Anexos faltando aprovação segurança**
 
-**Demandas bloqueadas:**
-1. Migração RH ↔ Shenlong (Martech ajuste falhou - TESTE NOVAMENTE)
-2. Bloqueio Cupons Telefonia (controle não funciona)
-3. Appsflyer PII/CUID (aguardando rito)
-4. Passback Tiktok (Rafa assumindo, pode acelerar)
-5. Bloqueio Subcategorias (pausado)
-6. Cupons Shenlong (investigação em andamento)
-7. Erros Hoverboard (label não funciona)
-8. Lista Bloqueios (cueca, calcinha, lingerie)
+**O que você precisa fazer (HOJE):**
 
-**O que você precisa fazer:**
-
-1. 📞 **Liga para Lead Martech (HOJE 18/05):**
+1. 📞 **Liga para seu advogado + gestor:**
 ```
-"Martech - Migração RH/Shenlong falhou na primeira tentativa.
-Pedro testou, não funcionou. Quando conseguem novo ajuste?
+"Netflix contrato da Liveramp tem BOMBA de risco jurídico.
+TRÊS problemas graves:
 
-Temos 8+ demandas na fila ainda. Qual é a priorização?"
+1. Multa 3x do valor pago (primeiros meses grátis!)
+2. Atualização automática não definida
+3. Gestão de contrato só na França
+
+Isso pode custar CENTENAS DE MILHARES se der problema.
+Preciso que revise hoje com jurídico para segunda."
 ```
 
-2. 📋 **Se não conseguir acesso total:**
-   - Você cria força-tarefa com Rafa (Martech está mudando estrutura)
-   - Rafa vai liderar Passback + ajudar com priorização
+2. ⚖️ **ESCALAÇÃO IMEDIATA** para seu gestor jurídico
+   - Contrato não pode prosseguir com essas falhas
+   - Liveramp precisa corrigir antes de assinar
 
-3. ✅ **Resultado esperado:** 
-   - RH/Shenlong retry até 19/05
-   - Fila priorizada até 20/05
+3. ✅ **Resultado esperado:** Revisão completa até segunda-feira
 
 ---
 
-### **🔴 CRÍTICO #2: MIGRAÇÃO RH ↔ SHENLONG (NOVO)**
+### **🔴 CRÍTICO #2: ACESSO LUCAS SEO - KIRK FLOW CONFUSO**
 
 **Situação:**
-- 🔴 Teste de Martech FALHOU (18/05)
-- ❌ Ajustes não funcionaram primeiro round
-- 📋 Pedro testou e reportou que ainda está quebrado
-- ⌚ Martech vai fazer ajustes novamente (indefinido)
+- 🕵️ **Travado há 1 SEMANA** (20/05 → 01/06)
+- ✅ SSO finalizado (26/05)
+- ✅ Email Turia criado (01/06)
+- ❌ **Help Desk não respondendo**
+- ❌ **Novo fluxo Kirk não está claro**
+- ❌ Especialista perdida no processo
 
-**O que falta:**
-- ❌ Identificar qual é o erro exato
-- ❌ Timeline para novo teste
-- ❌ Owner técnico do problema
+**O que você precisa fazer (HOJE):**
 
-**Ação Gerencial:**
-
-1. 📞 **Liga para seu tech lead:**
+1. 📞 **Liga Help Desk com tom firme:**
 ```
-"Teste RH/Shenlong falhou. Martech disse que ajusta mas 
-sem timeline definida.
+"Help Desk - Acesso Lucas SEO está TRAVADO há 1 SEMANA.
 
-Isso é crítico para processos de RH. Quando conseguem 
-nova tentativa?"
+Status atual:
+- SSO: ✓ Finalizado
+- Email Turia: ✓ Criado com 2FA
+- Help Desk: ❌ Sem resposta
+
+NOVO FLUXO KIRK não está claro para especialista.
+
+Preciso:
+1. Próximo passo exato (com print/screenshot)?
+2. Quanto tempo leva?
+3. Quando conseguem?
+
+Resposta até EOD hoje, senão vou escalar com seu gestor."
 ```
 
-2. 📧 **Se não responder em 24h, e-mail formal:**
+2. 📧 **Se não responder em 2h, e-mail com escalação:**
 ```
-Assunto: [URGENTE] Migração RH ↔ Shenlong - Falha Teste
+Assunto: [CRÍTICO] Help Desk - Acesso Lucas SEO Travado 1 Semana
 
-[Lead Martech],
+Help Desk,
 
-Teste da migração RH/Shenlong executado por Pedro falhou em 18/05.
+Acesso Lucas SEO está TRAVADO há 1 semana (20/05).
 
-Situação:
-- Ajustes realizados
-- Teste não passou
-- Timeline para novo ajuste: NÃO DEFINIDA
+Timeline:
+- 20/05: Solicitado
+- 26/05: Aprovações dos superiores
+- 01/06: SSO ok, Email Turia ok
+- 01/06: Help Desk → SEM RESPOSTA
 
-Impacto: Processo RH crítico dependendo disso.
+Fluxo Kirk (novo) não está claro. Especialista está 
+perdida esperando próximo passo.
 
-Preciso de:
-1. Qual é o erro específico?
-2. Timeline para novo ajuste?
-3. Posso alocar alguém para ajudar?
+AÇÃO URGENTE:
+Qual é o próximo passo exato? Timeline?
 
 CC: [Seu Gestor]
 ```
 
-3. ✅ **Resultado esperado:** Novo ajuste até 20/05 + novo teste até 21/05
+3. ✅ **Resultado esperado:** Acesso até 02/06
 
 ---
 
-### **🔴 CRÍTICO #3: EVENTO TIKTOK (Investigação Ativa)**
+### **🔴 CRÍTICO #3: VÍDEOS TIKTOK - BAIXA QUALIDADE**
 
 **Situação:**
-- 🕵️ Evento Tiktok prejudicando processamento ecommerce
-- ⏰ Sid voltou de férias (18/05) e começou investigação
-- 📊 Impacto documentado e reportado à liderança
-- ❓ Ainda entendendo causa e ação
+- 🕵️ Múltiplos vídeos com **QUALIDADE EXTREMAMENTE BAIXA**
+- ❌ Prejudicando entrega de conteúdo
+- ❌ **IMPACTANDO TESTE GLOBO DTV** (inicia 05/06!)
+- ⌚ Enviado Martech + Jessica (PO vídeos)
+- ⌚ Aguardando Tiktok PO para melhor resolução
 
-**O que falta:**
-- ❌ Causa-raiz identificada
-- ❌ Solução definida
-- ❌ Timeline para resolver
+**O que você precisa fazer (HOJE):**
 
-**Ação Gerencial:**
-
-1. 📞 **Liga para Sid (18/05) ou amanhã:**
+1. 📞 **Liga Jessica (PO squad vídeos):**
 ```
-"Sid, qual é o status do evento Tiktok? 
-Você conseguiu identificar a causa?
+"Jessica - vídeos Tiktok com qualidade baixa estão 
+prejudicando teste GLOBO DTV (inicia 05/06).
 
-Preciso entender:
-1. O que está acontecendo?
-2. Quando conseguimos resolver?
-3. Precisa de ajuda da Appsflyer?"
+Especialista solicitou melhor resolução do time Tiktok.
+Consegue cobrar Tiktok PO para hoje?
+
+Se conseguirmos resolver hoje, conseguimos testar 
+antes de iniciar amanhã."
 ```
 
-2. **Se Sid não conseguir sozinho:**
-   - Você agenda reunião com Appsflyer + Sid + Especialista
-   - Resolve em workshop
+2. 📞 **Se Jessica não conseguir, liga Tiktok PO direto:**
+```
+"Tiktok - Vários vídeos no catálogo Magalu estão 
+com QUALIDADE BAIXA, prejudicando desempenho.
 
-3. ✅ **Resultado esperado:** Causa-raiz até 19/05 | Solução até 21/05
+Teste importante começa 05/06. Conseguem melhorar 
+resolução dos vídeos até hoje?"
+```
+
+3. ✅ **Resultado esperado:** Vídeos corrigidos até 02/06 (antes do teste)
 
 ---
 
-### **🟠 CRÍTICO #4: LP PAY DAY (Progresso Positivo)**
+### **🔴 CRÍTICO #4: ERRO DEEPLINK iOS + Android**
 
 **Situação:**
-- ✅ RACI definida (18/05)
-- ✅ Papéis claros (Promo, SEO, Monks, Especialista)
-- ✅ Documento finalizado para referência
-- 🗓️ LP Data dupla em 06/06
-- 📅 Julho com cobertura (especialista em férias)
+- 😶 **3+ semanas sem resolver**
+- 🔴 iOS: Erro quando direcionam para HOME (descoberto 20/05)
+- 🔴 Android: Novo erro descoberto (22/05)
+- ❌ **Emulação do erro não funciona** (engenheiros não conseguem reproduzir)
+- ❌ **Sem log = sem solução**
+- 🕵️ Imersão com: Tiktok, Labs, Akira (28/05)
+
+**Bloqueadores:**
+- Labs não consegue emular erro app store
+- Sem emulação = sem log do erro
+- Sem log = engenheiros não conseguem debugar
 
 **O que você precisa fazer:**
 
-1. ✅ **Apenas ACOMPANHAR:**
-   - Documento tem tudo definido
-   - Equipes estão alinhadas
-   - Cuidado com férias (especialista fora 1ª semana julho)
+1. 📞 **Liga Akira + Labs:**
+```
+"Deeplink error bloqueado: emulação não funciona.
 
-2. 📅 **Validar:**
-   - Quem vai tocar LP julho? (alguém confirmado?)
-   - Métricas já ativadas? (GTM script)
+Opções:
+1. Tiktok consegue enviar log direto?
+2. Labs consegue emular de outra forma?
+3. Conseguimos acesso ao SDK do app de tiktok?
 
-3. ✅ **Resultado esperado:** LP pronta 06/06 sem atrasos
+Agendamos segunda para brainstorm?
+
+Prazo: CRÍTICO."
+```
+
+2. **Se não conseguir resolver by Labs:**
+   - Você escala para Tiktok oficialmente
+   - Pede suporte deles diretamente
+
+3. ✅ **Resultado esperado:** Plano de ação até segunda
+
+---
+
+### **🔴 CRÍTICO #5: ACESSO LP PAY DAY DEV**
+
+**Situação:**
+- 🕵️ Dev perdeu acesso email (28/05)
+- ⌚ Solicitado que abra helpdesk (29/05)
+- ❌ Help Desk travado
+- 🗓️ **LP prevista para 02/06**
+
+**O que você precisa fazer:**
+
+1. 📞 **Liga Help Desk:**
+```
+"Help Desk - LP Pay Day dev perdeu acesso email.
+
+Solicitado helpdesk em 29/05, sem retorno.
+LP é 02/06.
+
+Quando conseguem restaurar acesso?"
+```
+
+2. **Se Help Desk não responder:**
+   - Você liga para TI diretamente
+   - Isso é BLOQUEADOR de produção
+
+3. ✅ **Resultado esperado:** Acesso restaurado até amanhã
 
 ---
 
 ## 🎯 ACIONÁVEIS GERENCIAIS - O QUE VOCÊ FAZ
 
-### **HOJE - 18/05 (1h - CRÍTICO)**
+### **HOJE 01/06 (2h - CRÍTICO)**
 
-#### ☐ **AÇÃO 1: Follow-up Martech - RH/Shenlong (15 min)**
+#### ☐ **AÇÃO 1: Escalação Netflix Contrato (30 min)**
 ```
-"Martech - teste RH falhou. Quando próximo ajuste?
-Preciso timeline definida."
-```
+PRIORIDADE: 🔴 MÁXIMA
 
-#### ☐ **AÇÃO 2: Acompanhar Sid - Tiktok (10 min)**
-```
-"Sid - qual a causa do evento Tiktok?
-Quando conseguimos resolver?"
-```
+"[Seu Gestor] + Advogado,
 
-#### ☐ **AÇÃO 3: Validar LP Pay Day (10 min)**
-```
-"Promo/SEO - RACI definida, metricas já ativas?
-Quem cobre julho quando especialista sai?"
+Netflix contrato tem FALHAS JURÍDICAS graves:
+1. Multa 3x do valor pago (primeiros meses grátis!)
+2. Atualização automática não definida
+3. Gestão contrato só na França
+
+Pode ser RISCO FINANCEIRO ENORME.
+
+Preciso que revise hoje para segunda-feira?"
 ```
 
-#### ☐ **AÇÃO 4: Confirmar Appsflyer PII (10 min)**
+#### ☐ **AÇÃO 2: Help Desk - 2 Acessos Críticos (30 min)**
 ```
-"Appsflyer - qual é o status do rito de priorização?
-Já saímos de 11/05?"
+"Help Desk - Dois acessos CRÍTICOS travados:
+
+1. LUCAS SEO (1 semana!)
+   - SSO ok, Email Turia ok
+   - Próximo passo?
+   
+2. LP PAY DAY DEV (LP é 02/06!)
+   - Perdeu acesso email
+   - Restaurar quando?
+
+Resposta até EOD hoje."
 ```
 
-#### ☐ **AÇÃO 5: Alinhar Passback Tiktok (10 min)**
+#### ☐ **AÇÃO 3: Jessica + Tiktok - Vídeos Qualidade (20 min)**
 ```
-"Rafa - pode agendar para semana que vem?
-Preciso entender fluxo Passback + novas mudanças."
+"Jessica/Tiktok PO - Vídeos qualidade baixa estão 
+prejudicando teste GLOBO (inicia 05/06).
+
+Conseguem corrigir hoje?"
+```
+
+#### ☐ **AÇÃO 4: Akira + Labs - Deeplink Emulação (20 min)**
+```
+"Akira/Labs - Deeplink bloquedo por falta de emulação.
+
+Opções:
+1. Tiktok envia log direto?
+2. Emular de outro jeito?
+3. Acesso SDK?
+
+Agendamos segunda?"
+```
+
+#### ☐ **AÇÃO 5: Validar Imersão IA Mari (10 min)**
+```
+"Mari - Primeira devolutiva MVP curva saturação segunda?
+Você consegue suportar construção?"
 ```
 
 **Meta:** 5/5 ações ✅ até EOD hoje
 
 ---
 
-### **PRÓXIMOS DIAS (19/05-20/05 - 1h)**
+### **PRÓXIMOS DIAS (02/06-07/06)**
 
-#### ☐ **Novo Teste RH/Shenlong (Se ajustes feitos)**
-- ⏰ Confirmar com Pedro que vai testar
-- 🔍 Validar resultado
+#### 🗓️ **02/06 - LP Pay Day Deploy**
+- ✅ Validar que acesso foi restaurado
+- ✅ Deploy sem problemas
 
-#### ☐ **Reunião Sid + Appsflyer + Especialista (Se needed)**
-- Resolver evento Tiktok junto
-- Definir ações preventivas
+#### 🗓️ **05/06 - Teste Busca X PDP Inicia**
+- ⚠️ Página alerta fora do ar? Validar!
+- ✅ Catálogos equiparados?
 
-#### ☐ **Agenda Rafa - Passback Tiktok**
-- Semana que vem
-- Estrutura nova do time
-
----
-
-### **SEMANA 20/05-24/05**
-
-#### ☐ **Acompanhar LP Pay Day**
-- Métricas ativas?
-- RACI funcionando?
-
-#### ☐ **Validar Netflix Security**
-- Privacidade/Jurídico progredindo?
-- Previsto junho
-
-#### ☐ **Reunião Kwai (21/05)**
-- Especialista já tem agenda
-- Apenas acompanhar progresso
-
-#### ☐ **Globo DTV Execução**
-- RACI foi criada
-- Validar implementação
+#### 🗓️ **07/06 - Globo DTV Acompanhamento**
+- ✅ Fluxo funcionando?
+- ✅ Métricas ativas?
 
 ---
 
-## 📋 SUMÁRIO CONSOLIDADO DE STATUS
+## 📋 SUMÁRIO CONSOLIDADO
 
-### **✅ FINALIZADAS (35 demandas - 60%)**
-
-**Semana 15/05:**
-- Investigação Cupons TEL
-- Alinhamento Kwai
-- Netflix Troca Base
-- Documento Landing Page
-
-**Semana 18/05:**
-- RACI Globo DTV
-- Abertura Semanal
-- Conselho Cohen
-- LP Pay Day RACI
-
-**Antes:**
-- LP Pay Day v1
-- ROI Hunter Volume
-- Kwai Errors
-- Data Strenght
-- Bloqueio Imagens
-- E muitas outras...
-
-### **⌚ AGUARDANDO RESPOSTA EXTERNA (14 demandas)**
+### **✅ FINALIZADAS (70 - 74%)**
 ```
-Martech RH/Shenlong → Novo ajuste indefinido
-Evento Tiktok (Sid) → Identificar + resolver
-Passback Tiktok (Rafa) → Semana que vem
-Appsflyer PII → Rito priorização
-Netflix Security → Início junho
-Danilo Feedback Landing Page
-Alinhamento Passback detalhes
-E outros aguardando...
+Acesso Carla, Treinamentos Appsflyer, Bloqueios imagens,
+IA Teams (3P, 4P, Brandformance), Kwai (roadmap + estoque),
+Google Martech, LP Julho, Meta Iniciativas, DP6 Appsflyer,
+LP Pay Day (liberação), Erro Tiktok (descoberta),
+Catálogo Imersão, Consent Mode GA, Akira Alinhamento,
+Pinterest, Microsoft, Globo DTV (antecipação),
+Onboarding Helena, LIA Fix, Merchant Excellence,
+Destaque Mês, LP Junho SEO, E muitas mais...
 ```
 
-### **🕵️ INVESTIGAÇÃO ATIVA (6 demandas)**
+### **⌚ AGUARDANDO (15)**
 ```
-Evento Tiktok (Sid trabalhando)
-Cupons Telefonia (controle proposto)
-Bloqueio Hoverboard (label issue)
-Cupons Shenlong (6 cupons em estudo)
-Pixel Spotify (ainda investigando)
-Controle Cupons sem Promo (proposto criar)
+Netflix (segurança + jurídico)
+Vídeos Tiktok (qualidade)
+Acesso Lucas SEO (Help Desk)
+Acesso LP Pay Day (Help Desk)
+Data Strenght (Mat)
+Tiktok Android Erro (Deivid/Wander)
+Bucket Mirum (Rafa/Kana)
+Evento Purchase (Appsflyer)
+Pixel Spotify (recobrança 2x!)
+LP Pay Day (Monks/Promo)
+Magalupay destaque
+E outros...
 ```
 
-### **🗓️ AGENDADAS (2 demandas)**
+### **🕵️ INVESTIGAÇÃO (8)**
 ```
-Kwai Alignment (21/05)
-Passback Tiktok (semana que vem com Rafa)
+Acesso Lucas SEO (Kirk flow)
+Acesso LP Pay Day (email)
+Vídeos Tiktok (qualidade baixa)
+Deeplink iOS + Android (emulação)
+Ratings Google ("not enabled")
+Power BI Automatização
+Teste Busca X PDP (página alerta)
+E outros...
+```
+
+### **🗓️ AGENDADAS (2)**
+```
+Teste Busca X PDP (05/06)
+Globo DTV (07/06)
+Imersão IA Mari (segunda)
+Netflix Jurídico (segunda)
 ```
 
 ---
 
-## 💼 TEMPLATES DE COMUNICAÇÃO
+## ⚠️ **ITENS CRÍTICOS DE ATENÇÃO**
 
-### **Template 1: Para Martech - RH/Shenlong Urgência**
+### **🔴 Netflix Contrato - BOMBA JURÍDICA**
+- Falhas graves em contrato
+- **VOCÊ PRECISA ESCALAR PARA GESTOR HOJE**
+
+### **🔴 Help Desk - 2 Acessos Críticos Travados**
+- Lucas SEO (1 semana!)
+- LP Pay Day (LP é amanhã!)
+- **VOCÊ PRECISA PRESSIONAR HELP DESK HOJE**
+
+### **🔴 Vídeos Tiktok - Impactando Teste**
+- Qualidade baixa
+- Teste inicia 05/06
+- **VOCÊ PRECISA COBRAR JESSICA/TIKTOK HOJE**
+
+### **🟠 Especialista em Sobrecarga**
+- 95 demandas em 1 mês
+- Múltiplos "Só Jesus na causa"
+- **CONSIDERE REDUZIR DEMANDAS OU ALOCAR SUPPORT**
+
+---
+
+## 💼 **TEMPLATES DE COMUNICAÇÃO**
+
+### **Template 1: Escalação Netflix (MÁXIMA PRIORIDADE)**
 ```
-Assunto: [URGENTE] Migração RH ↔ Shenlong - Teste Falhou
+Assunto: [URGENTE] Netflix Contrato - Falhas Jurídicas CRÍTICAS
 
-[Lead Martech],
+[Seu Gestor + Advogado],
 
-Teste executado por Pedro em 18/05 falhou.
+Contrato Netflix/Liveramp tem TRÊS FALHAS JURÍDICAS GRAVES:
 
-Status:
-- Ajustes realizados por vocês
-- Pedro testou
-- Resultado: NÃO FUNCIONOU
-- Timeline nova: NÃO DEFINIDA
+1. 🔴 MULTA DE 3X DO VALOR PAGO se houver problema
+   - Primeiros meses são GRÁTIS
+   - Se problema ocorre = pagamos 3x SEM RECEITA
 
-Isso impacta processo crítico de RH.
+2. 🔴 ATUALIZAÇÃO AUTOMÁTICA DO CONTRATO não definida
+   - Risco de perder acesso
+   - Sem renovação automática = cancelamento
 
-Preciso HOJE:
-1. Qual é o erro específico?
-2. Quando novo ajuste?
-3. Novo teste quando?
-4. Posso alocar alguém para ajudar?
+3. 🔴 GESTÃO DE CONTRATO APENAS NA FRANÇA
+   - Qualquer disputa → só resolve lá
+   - Custo e tempo exponenciais
+
+Status: BLOQUEADO aguardando aprovação segurança + jurídico.
+
+AÇÃO: Precisamos revisar e pedir correções antes de assinar.
+
+Conseguem revisar HOJE para segunda-feira resolver?
 
 Obrigado,
 [Seu Nome]
 ```
 
-### **Template 2: Para Sid - Evento Tiktok**
+### **Template 2: Help Desk - Acessos Críticos**
 ```
-Assunto: Evento Tiktok - Status Investigação
+Assunto: [CRÍTICO] 2 Acessos Bloqueando Produção
 
-Sid,
+Help Desk,
 
-Você voltou de férias ontem. Qual é o status 
-do evento Tiktok que está prejudicando o ecommerce?
+Dois acessos CRÍTICOS estão travados:
 
-Preciso saber:
-1. Qual é a causa?
-2. Por que está acontecendo?
-3. Como resolvemos?
-4. Quando conseguimos resolver?
+1. LUCAS SEO (TRAVADO 1 SEMANA)
+   - 20/05: Solicitado
+   - 26/05: Aprovações ok
+   - 01/06: SSO ok, Email Turia ok
+   - 01/06: Help Desk → ?????
+   
+   Próximo passo exato? Timeline?
 
-Se precisar de ajuda (Appsflyer, especialista, etc), 
-eu agendo reunião urgente.
+2. LP PAY DAY DEV (LP AMANHÃ 02/06!)
+   - 28/05: Perdeu acesso email
+   - 29/05: Solicitado helpdesk
+   - 01/06: Sem resposta
+   
+   Quando conseguem restaurar?
 
-Abraços,
-[Seu Nome]
-```
+NOVO FLUXO KIRK: Não está claro. 
+Especialista está perdida.
 
-### **Template 3: Para Rafa - Passback Tiktok**
-```
-Assunto: Agenda - Passback Tiktok + Mudanças Time
+PRAZO: Resposta até EOD hoje.
 
-Rafa,
-
-Especialista comentou que você vai liderar Passback 
-com nova estrutura do time (dance das cadeiras).
-
-Preciso agendar semana que vem para entender:
-1. Como funciona novo Passback?
-2. Quais mudanças no time?
-3. Como isso impacta outras demandas?
-
-Consegue 30 min semana que vem?
-
-Abraços,
+Obrigado,
 [Seu Nome]
 ```
 
 ---
 
-## ⚠️ ITENS DE ATENÇÃO
-
-### **⚡ Falcon Alertas:**
-
-1. **Especialista em férias (início julho)**
-   - ⚠️ LP julho precisa de cobertura definida
-   - ⚠️ Quem vai fazer follow-ups de demandas críticas?
-
-2. **Piriri de agenda (15/05)**
-   - ⚠️ Especialista perdeu reunião com Danilo por falta de atenção ao celular
-   - ⚠️ Sugestão: Usar calendário + lembretes automáticos
-
-3. **Martech como gargalo contínuo**
-   - ⚠️ 8+ demandas na fila
-   - ⚠️ Testes falhando (RH/Shenlong)
-   - ⚠️ Pode precisar terceirizar ou alocar mais recursos
-
-4. **Processo de Cupons sem controle**
-   - ⚠️ Comercial criando cupons sem passar por Promo
-   - ⚠️ Sugestão: Implementar processo + aprovação
-   - ⚠️ Você pode ser o owner dessa implementação
-
----
-
-## ✅ CHECKLIST FINAL PARA VOCÊ (18/05)
+## ✅ **CHECKLIST FINAL PARA VOCÊ (01/06)**
 
 Antes de terminar o dia:
 
-- [ ] **Liga/Follow-up Martech** (RH/Shenlong)
-- [ ] **Liga Sid** (Evento Tiktok status)
-- [ ] **Valida LP Pay Day** (Métricas? Cobertura julho?)
-- [ ] **Confirma Appsflyer PII** (Progresso?)
-- [ ] **Agenda Rafa** (Passback semana que vem)
-- [ ] **Suporta especialista** (Agenda perdida = alerta de burnout?)
+- [ ] **Escala Netflix contrato** (jurídico!)
+- [ ] **Pressiona Help Desk** (2 acessos)
+- [ ] **Cobra Jessica + Tiktok** (vídeos)
+- [ ] **Alinha Akira/Labs** (deeplink)
+- [ ] **Suporta Mari** (IA MVP)
+- [ ] **Valida especialista** (sobrecarga?)
 
 **Meta:** 6/6 ✅ até EOD
 
 ---
 
-## 🎯 RESUMO PARA SEU GESTOR
+## 🎯 **RESUMO PARA SEU GESTOR**
 
-**Situação atual (18/05):**
-- ✅ 35 demandas finalizadas (60%)
-- 🟠 3 bloqueadores críticos em resolução
-- 🚧 Martech continua sendo gargalo (testes falhando)
-- ⚠️ Especialista pode estar em sobrecarga (piriri de agenda)
+**Situação (01/06):**
+- ✅ 70 demandas finalizadas (74%) - EXCELENTE!
+- 🔴 5 bloqueadores críticos precisam ação HOJE
+- 🔴 Netflix contrato em risco jurídico GRAVE
+- 🔴 Help Desk deixando acessos críticos travados
+- ⚠️ Especialista mostra sinais de sobrecarga (95 demandas!)
+- 📅 Especialista de férias em 3 semanas
 
-**Ações que SÓ você pode fazer:**
-1. ✅ Escalar RH/Shenlong (teste falhou)
-2. ✅ Acompanhar Tiktok event (Sid resolvendo)
-3. ✅ Validar LP Pay Day (métricas + cobertura)
-4. ✅ Implementar controle Cupons (proposto)
-5. ✅ Acompanhar férias especialista (planejamento julho)
+**Ações urgentes de você:**
+1. ✅ **Escalar Netflix contrato com jurídico** (HOJE!)
+2. ✅ **Pressionar Help Desk** (acessos críticos)
+3. ✅ **Cobrar vídeos Tiktok** (teste crítico 05/06)
+4. ✅ **Validar Deeplink solução** (Labs + Akira)
+5. ✅ **Avaliar sobrecarga especialista**
 
-**Impacto:** ~1h gestão = evita atrasos + validar saúde especialista
-
-**⚠️ Alert:** Especialista mostra sinais de sobrecarga (perdeu reunião por falta de atenção). Considere: reduzir demandas simultâneas ou alocar assistant.
+**Impacto:** ~2h gestão = evita risco jurídico de CENTENAS DE MILHARES + destranca acessos críticos + mantém testes no prazo
 
 ---
 
-**Documento atualizado:** 18/05/2026 - 20:30  
-**Próxima atualização:** 22/05/2026
+**Documento atualizado:** 01/06/2026 - 23:59  
+**Próxima atualização:** Quando você enviar novo status
 
-**Status Geral:** 📈 Progredindo bem (60% conclusão), com 3 bloqueadores em resolução ativa e Martech como gargalo contínuo
+**Status Geral:** 📈 EXCELENTE progresso (74%), com 5 bloqueadores críticos que VOCÊ precisa resolver HJE
