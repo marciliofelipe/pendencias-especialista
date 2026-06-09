@@ -1,7 +1,7 @@
 # 🎯 BLOQUEADORES DETALHADOS + ACIONÁVEIS GERENCIAIS
-**Período:** 28/04 - 01/06/2026  
+**Período:** 28/04 - 08/06/2026  
 **Para:** Gestor de Especialista  
-**Status:** 95 demandas mapeadas (update completo 20/05-01/06)
+**Status:** 143 demandas mapeadas (update completo 02/06-08/06)
 
 ---
 
@@ -9,591 +9,533 @@
 
 | Métrica | Total |
 |---------|-------|
-| **Total de Demandas** | 95 |
-| **✅ Finalizadas** | 70 |
-| **⌚ Aguardando** | 15 |
-| **🕵️ Investigação** | 8 |
-| **🗓️ Agendadas** | 2 |
+| **Total de Demandas** | 143 |
+| **✅ Finalizadas** | 102 |
+| **⌚ Aguardando** | 22 |
+| **🕵️ Investigação** | 13 |
+| **🗓️ Agendadas** | 6 |
 
-**Taxa de Conclusão:** 74% | **Acompanhamento Ativo:** 24%
+**Taxa de Conclusão:** 71% | **Acompanhamento Ativo:** 27%
 
 ---
 
-## 🚨 BLOQUEADORES CRÍTICOS ATUALIZADOS (01/06)
+## 🚨 BLOQUEADORES CRÍTICOS ATUALIZADOS (08/06)
 
 | # | Demanda | Status | Bloqueador | Prazo | Ação Gerencial |
 |---|---------|--------|-----------|-------|----------------|
-| 🔴 P1 | **Netflix Contrato - Falhas Jurídicas** | ⚠️ Crítico | Liveramp emitiu contrato c/ graves falhas | **Indefinido** | ⚖️ Escalação legal URGENTE |
-| 🔴 P2 | **Acesso Lucas SEO - Kirk Flow Confuso** | 🕵️ Travado | Help Desk novo fluxo não claro | **Indefinido** | 📞 Pressionar Help Desk |
-| 🔴 P3 | **Vídeos Tiktok Baixa Qualidade** | 🕵️ Investigando | Múltiplos vídeos com qualidade baixa | **Crítico** | ⌚ Aguardando Tiktok PO |
-| 🔴 P4 | **Erro Deeplink iOS + Android** | 😶 Crítico | Emulação não funciona, sem log | **Indefinido** | 💻 Labs + Tiktok alinhados |
-| 🔴 P5 | **Acesso LP Pay Day Dev** | 🕵️ Travado | Dev perdeu acesso, helpdesk travado | **Indefinido** | 📞 Help Desk urgente |
-| 🟠 P6 | **Teste Busca X PDP** | 🗓️ Agendado | Inicia 05/06, página alerta fora do ar | **05/06** | ✅ Validar antes de iniciar |
-| 🟠 P7 | **Globo DTV** | 🗓️ Agendado | Acompanhamento 07/06, API 12/07 | **07/06** | 📋 Acompanhar execução |
-| 🟠 P8 | **Imersão IA Mari** | 🗓️ Agendado | MVP curva saturação + projeção invest | **Segunda** | 📊 Suportar construção |
-| 🟠 P9 | **Data Strenght DP6** | ⌚ Aguardando | Mat vai dar acesso (Leo não conseguiu) | **Indefinido** | ⌚ Aguardando Mat |
-| 🟠 P10 | **Pixel Spotify** | ⌚ Recobrança 2x | Cobrado 2x, sem resposta | **Urgente** | 📧 Escalação parceiro |
+| 🔴 P1 | **Pixel Globo GTM** | 🆘 EMERGÊNCIA | Time Monks mudou prio, pediu extensão | **HOJE** | 📞 Escalação urgente |
+| 🔴 P2 | **Erro Cupom PLA Vinculação** | 📚 Investigação | 11+ promoções com erro + falta Promotion ID | **URGENTE** | 🔍 Martech investigando |
+| 🔴 P3 | **Tiktok Vídeos Resolução** | 😶 Travado | Jessica agenda sobrecarregada | **12/06** | 📞 Validar priorização |
+| 🔴 P4 | **Meta Free Shipping Discrepância** | 📚 Complexo | 17.8k produtos vs 3k nas campanhas (83% diferença!) | **Indefinido** | 🔄 Alteração Score Experiência |
+| 🔴 P5 | **PDP x Busca ROI Hunter vs BM** | 😶 Crítico | >10% diferença persistente, sem solução | **Indefinido** | 🚨 Escalação produto |
+| 🟠 P6 | **Netflix Contrato** | 🗓️ Aguardando | Jurídico avaliando termos + anexos | **Indefinido** | ⚖️ Acompanhar jurídico |
+| 🟠 P7 | **Shenlong Cupom Bloqueio** | 🕵️ Investigação | Erro na vinculação produto-promoção | **Indefinido** | 🔧 Martech ajustando |
+| 🟠 P8 | **Erro Redirecionamento Instagram** | ⌚ Teste | Appsflyer removendo tela intermediária | **Pendente** | ⌚ Aguardando Lucas App |
+| 🟠 P9 | **Delivery Magalu Appsflyer** | 🗓️ Agendado | Quinzenal 17/06, limitação de separação miniapp | **17/06** | 📋 Investigar workaround |
+| 🟠 P10 | **Globo DTV API** | ✅ Progresso | Adiada para setembro, Pixel prioritário | **07/06** | ✅ Acompanhar pixel |
 
 ---
 
-## 📅 TIMELINE COMPLETA - PERÍODO 20/05 A 01/06
+## 📅 TIMELINE DETALHADA - ÚLTIMOS DIAS (02/06-08/06)
 
-### **SEMANA 1: 20/05**
-
-#### ✅ Finalizadas (6)
-- ✅ Acesso Carla SEO (alinhamento Mardem)
-- ✅ Treinamento Appsflyer (cobrança)
-- ✅ Bloqueio Imagem Anômala (IA + Shenlong)
-- ✅ Iniciação IA Time (3P + 4P)
-- ✅ Bloqueio Cupom TEL220
-- ✅ Conselho Cris (SEO + Influenciadores)
-
-#### 🕵️ Investigação (1)
-- 🕵️ Erro Deeplink Tiktok (identificado: HOME + iOS)
-
-#### ⌚ Aguardando (1)
-- ⌚ LP Pay Day Junho (Monks + Take)
-
-#### 🗓️ Agendadas (1)
-- 🗓️ Martech Priorização (apresentar semana que vem)
-
----
-
-### **SEMANA 2: 21/05**
-
-#### ✅ Finalizadas (6)
-- ✅ Treinamento Appsflyer (finalizado)
-- ✅ Erro Tiktok DESCOBERTO (alinhado com Pedro + Jonathan)
-- ✅ Iniciação IA Brandformance
-- ✅ Kwai Reunião (roadmap)
-- ✅ Planilha Estoque Kwai (diária)
-- ✅ Globo DTV (status Felipe)
-
-#### ⌚ Aguardando (1)
-- ⌚ LP Pay Day Junho (Monks + Promo)
-
-#### 🗓️ Agendadas (1)
-- 🗓️ Tiktok Android Erro (agenda terça)
-
----
-
-### **SEMANA 3: 22/05**
-
-#### ✅ Finalizadas (4)
-- ✅ Alinhamento Google Martech (Arthur ausente casamento)
-- ✅ Processo LP Julho (Ogilvy responsável pós-Monks)
-- ✅ Alinhamento Meta próximas iniciativas
-- ✅ DP6 Proposta Appsflyer (consultoria hands-on)
-
-#### 🗓️ Agendadas (1)
-- 🗓️ LP Junho Promo (entrega final hoje)
-
----
-
-### **SEMANA 4: 25/05**
-
-#### ✅ Finalizadas (1)
-- ✅ DP6 Proposta Appsflyer (bullet points casos)
-
-#### ⌚ Aguardando (3)
-- ⌚ Acesso Lucas SEO (Kirk flow sem previsão)
-- ⌚ Data Strenght (Leo → Mat vai dar)
-- ⌚ Tiktok Android Erro (Deivid + Wander)
-
-#### 🗓️ Agendadas (1)
-- 🗓️ LP Pay Day (previsto 02/06 manhã)
-
----
-
-### **SEMANA 5: 26/05**
+### **02/06 - SEGUNDA**
 
 #### ✅ Finalizadas (5)
-- ✅ LP Pay Day (liberação brandformance)
-- ✅ Erro Tiktok (Labs + Sid confirmados)
-- ✅ Acesso Lucas SEO (aprovações superiores)
-- ✅ Imersão Catálogo (Data Analytics)
-- ✅ Consent Mode GA (briefing CRM)
-- ✅ Alinhamento Akira (Consent, Tester, Partnership, Events)
+- ✅ Data Strenght (acesso finalizado)
+- ✅ Abertura semanal (preenchimento)
+- ✅ Alinhamento roadmap (Natalia)
+- ✅ Automatização frete grátis (reunião)
+- ✅ Consent Mode (alinhado Data Strenght)
 
-#### ⌚ Aguardando (3)
-- ⌚ Netflix Contrato (jurídico retorno)
-- ⌚ Evento Purchase Appsflyer (investigação)
-- ⌚ Pixel Spotify (recobrança)
+#### 🗓️ Agendadas (4)
+- 🗓️ Globo DTV (finaliza 07/06)
+- 🗓️ Netflix Contrato (jurídico avalia)
+- 🗓️ Delivery Magalu Appsflyer (08/06)
+- 🗓️ Bloqueio Cupom (03/06 Merenda)
 
-#### 📚 Estudos (1)
-- 📚 Automatização Power BI (avaliando possibilidades)
+#### ⌚ Aguardando (2)
+- ⌚ Tiktok Vídeos (ainda sem agenda)
+- ⌚ Dados históricos catálogo (Google pendente)
 
----
-
-### **SEMANA 6: 28/05**
-
-#### ✅ Finalizadas (3)
-- ✅ Pinterest Vídeos Custom (Rosa)
-- ✅ Microsoft Apresentação (mensuração)
-- ✅ Globo DTV (lista teste antecipada)
-
-#### 🕵️ Investigação (3)
-- 🕵️ Acesso LP Pay Day (erro email dev)
-- 🕵️ Acesso Lucas SEO (Kirk flow)
-- 🕵️ Erro Tiktok Vídeos (qualidade baixa)
-- 🕵️ Erro Deeplink (emulação não funciona)
-
-#### 🗓️ Agendadas (1)
-- 🗓️ Netflix Jurídico (segunda-feira aprofundar)
+#### 🕵️ Investigação (1)
+- 🕵️ Acesso Lucas SEO (senha errada)
 
 ---
 
-### **SEMANA 7: 29/05**
+### **03/06 - TERÇA**
 
-#### ✅ Finalizadas (3)
-- ✅ Onboarding Helena
-- ✅ Redução LIA na conta (ajuste PLA)
-- ✅ Globo DTV (lista teste + onelinks)
-
-#### 🕵️ Investigação (2)
-- 🕵️ Acesso LP Pay Day (dev abrir helpdesk)
-- 🕵️ Acesso Lucas SEO (helpdesk)
-- 🕵️ Erro Deeplink iOS (suporte Monks + Akira)
-- 🕵️ Ratings Google ("not enabled")
-
-#### 🗓️ Agendadas (1)
-- 🗓️ Imersão IA Mari (MVP primeira devolutiva segunda)
-
----
-
-### **SEMANA 8: 01/06**
-
-#### ✅ Finalizadas (4)
-- ✅ Destaque do Mês (recebido)
-- ✅ LP Junho (alinhado SEO)
-- ✅ Acesso Lucas SEO (SSO finalizado, email Turia pendente)
-
-#### 🕵️ Investigação (2)
-- 🕵️ Acesso Lucas SEO (Help Desk aguardando)
-- 🕵️ Acesso LP Pay Day (helpdesk)
-
-#### ⌚ Aguardando (4)
-- ⌚ Netflix Contrato (aprovação segurança + jurídico)
-- ⌚ Vídeos Tiktok (qualidade)
-- ⌚ Magalupay destaque (próximos passos)
+#### ✅ Finalizadas (9)
+- ✅ Globo DTV (alinhamento Vanessa Lojas)
+- ✅ Acesso Lucas (resolvido email)
+- ✅ Acesso Tomaz Shenlong (Cris ajudar)
+- ✅ Acesso Dev BM Meta (já tinha acesso)
+- ✅ Treinamento Appsflyer (DP6 + Akira + Rafa + Lucas)
+- ✅ Consulta Frete Grátis (análise BQ)
+- ✅ Processo Bloqueio Cupom (Michel + Merenda)
+- ✅ Check Meta Alinhamento (EMQ)
+- ✅ Dados Appsflyer para Meta (Raul)
+- ✅ Bloqueio Cupons (CEL200, TEL100, TEL700)
 
 #### 🗓️ Agendadas (2)
-- 🗓️ Teste Busca X PDP (inicia 05/06)
-- 🗓️ Globo DTV (acompanhamento 07/06)
+- 🗓️ LP Pay Day (06/06 - banner hero)
+- 🗓️ Automatização Frete Grátis (08/06)
+
+#### 🆘 EMERGÊNCIA (1)
+- 🆘 Pixel Globo GTM (Monks deu meia volta!)
+
+#### ⌚ Aguardando (1)
+- ⌚ Erro Redirecionamento Instagram (teste Lucas)
+
+#### 🕵️ Investigação (3)
+- 🕵️ Shenlong Bloqueio Cupom (investigando erro)
+- 🕵️ Atualização dados Anotações (falta cupom Pedro)
+
+---
+
+### **05/06 - QUINTA**
+
+#### ✅ Finalizadas (4)
+- ✅ Slides Frete Grátis (pré-Marielle)
+- ✅ Globo DTV (entrega final Merchant)
+- ✅ LPs (ajuste link seleção)
+- ✅ Destaque do Mês (Raul + foto)
+
+#### ⌚ Aguardando (2)
+- ⌚ Produto Ratings (Google investigação)
+- ⌚ Cupom exportar dados (Fernando Luma)
+
+---
+
+### **08/06 - DOMINGO**
+
+#### ✅ Finalizadas (4)
+- ✅ Ajuste Slides Frete Grátis (layout)
+- ✅ Documento Controle Erros (Deeplink + Atribuição)
+- ✅ Delivery Magalu Appsflyer (suporte metrificação)
+- ✅ Globo DTV (acompanhamento 07/06 completo!)
+
+#### 🗓️ Agendadas (2)
+- 🗓️ Vídeo Tiktok Jessica (12/06 - sobrecarregada!)
+- 🗓️ Pixel Globo (Labs definindo prazo)
+- 🗓️ Delivery Appsflyer (quinzenal 17/06)
+
+#### 📚 Estudos (2)
+- 📚 Meta Free Shipping (alteração Score Experiência)
+- 📚 Erro Cupom PLA (Promotion ID investigation)
 
 ---
 
 ## 📊 ANÁLISE DETALHADA - BLOQUEADORES CRÍTICOS
 
-### **🔴 CRÍTICO #1: NETFLIX CONTRATO - FALHAS JURÍDICAS GRAVES**
+### **🔴 CRÍTICO #1: PIXEL GLOBO GTM - EMERGÊNCIA (08/06)**
 
 **Situação:**
-- ⚠️ Liveramp emitiu contrato com **GRAVES FALHAS**
-- 🔴 **Atualização automática do contrato NÃO definida** (risco de perder acesso)
-- 🔴 **Gestão de contrato em juízo APENAS na França** (problema internacional)
-- 🔴 **Multa de 3X do valor pago** se houver problema
-- 🔴 **Primeiros meses são GRÁTIS** → Se der problema = pagamos 3x sem receita!
-- 🔴 **Anexos faltando aprovação segurança**
+- 🆘 **EMERGÊNCIA TODAY** - Globo adiou API, quer Pixel prioritário
+- ✅ Monks prometeu finalizado para publicação HOJE (03/06)
+- ✅ Akira tinha finalizado
+- ⏸️ **18h voltaram atrás!** Monks recuou
+- 🔴 Globo pediu evento em Checkout (contra políticas internas)
+- ⚠️ Especialista "desesperada tentando resolver"
 
-**O que você precisa fazer (HOJE):**
+**O que você precisa fazer (HOJE 08/06):**
 
-1. 📞 **Liga para seu advogado + gestor:**
+1. 📞 **Liga para Lead Monks + Akira:**
 ```
-"Netflix contrato da Liveramp tem BOMBA de risco jurídico.
-TRÊS problemas graves:
+"Monks/Akira - Pixel Globo é CRÍTICO.
 
-1. Multa 3x do valor pago (primeiros meses grátis!)
-2. Atualização automática não definida
-3. Gestão de contrato só na França
+Status:
+- 03/06: Prometido pra publicação
+- 18h 03/06: Monks recuou
 
-Isso pode custar CENTENAS DE MILHARES se der problema.
-Preciso que revise hoje com jurídico para segunda."
+Globo adiou API, dependendo 100% do Pixel.
+
+Vocês conseguem:
+1. Retomar implementação?
+2. Prazo realista?
+3. O que trava?"
 ```
 
-2. ⚖️ **ESCALAÇÃO IMEDIATA** para seu gestor jurídico
-   - Contrato não pode prosseguir com essas falhas
-   - Liveramp precisa corrigir antes de assinar
+2. 📞 **Liga Globo (Felipe):**
+```
+"Felipe - sobre o evento de Checkout:
 
-3. ✅ **Resultado esperado:** Revisão completa até segunda-feira
+Contra nossas políticas internas de segurança.
+Não conseguimos implementar.
+
+Posso oferecer:
+1. Todos outros eventos (sem Checkout)
+2. Pixel pronto em 48h
+3. Mais dados via API em setembro
+
+Consegue remover Checkout da solicitação?"
+```
+
+3. ✅ **Resultado esperado:** 
+   - Pixel implementado até 09/06
+   - Globo sem evento Checkout
 
 ---
 
-### **🔴 CRÍTICO #2: ACESSO LUCAS SEO - KIRK FLOW CONFUSO**
+### **🔴 CRÍTICO #2: ERRO CUPOM PLA - VINCULAÇÃO QUEBRADA**
 
 **Situação:**
-- 🕵️ **Travado há 1 SEMANA** (20/05 → 01/06)
-- ✅ SSO finalizado (26/05)
-- ✅ Email Turia criado (01/06)
-- ❌ **Help Desk não respondendo**
-- ❌ **Novo fluxo Kirk não está claro**
-- ❌ Especialista perdida no processo
-
-**O que você precisa fazer (HOJE):**
-
-1. 📞 **Liga Help Desk com tom firme:**
-```
-"Help Desk - Acesso Lucas SEO está TRAVADO há 1 SEMANA.
-
-Status atual:
-- SSO: ✓ Finalizado
-- Email Turia: ✓ Criado com 2FA
-- Help Desk: ❌ Sem resposta
-
-NOVO FLUXO KIRK não está claro para especialista.
-
-Preciso:
-1. Próximo passo exato (com print/screenshot)?
-2. Quanto tempo leva?
-3. Quando conseguem?
-
-Resposta até EOD hoje, senão vou escalar com seu gestor."
-```
-
-2. 📧 **Se não responder em 2h, e-mail com escalação:**
-```
-Assunto: [CRÍTICO] Help Desk - Acesso Lucas SEO Travado 1 Semana
-
-Help Desk,
-
-Acesso Lucas SEO está TRAVADO há 1 semana (20/05).
-
-Timeline:
-- 20/05: Solicitado
-- 26/05: Aprovações dos superiores
-- 01/06: SSO ok, Email Turia ok
-- 01/06: Help Desk → SEM RESPOSTA
-
-Fluxo Kirk (novo) não está claro. Especialista está 
-perdida esperando próximo passo.
-
-AÇÃO URGENTE:
-Qual é o próximo passo exato? Timeline?
-
-CC: [Seu Gestor]
-```
-
-3. ✅ **Resultado esperado:** Acesso até 02/06
-
----
-
-### **🔴 CRÍTICO #3: VÍDEOS TIKTOK - BAIXA QUALIDADE**
-
-**Situação:**
-- 🕵️ Múltiplos vídeos com **QUALIDADE EXTREMAMENTE BAIXA**
-- ❌ Prejudicando entrega de conteúdo
-- ❌ **IMPACTANDO TESTE GLOBO DTV** (inicia 05/06!)
-- ⌚ Enviado Martech + Jessica (PO vídeos)
-- ⌚ Aguardando Tiktok PO para melhor resolução
-
-**O que você precisa fazer (HOJE):**
-
-1. 📞 **Liga Jessica (PO squad vídeos):**
-```
-"Jessica - vídeos Tiktok com qualidade baixa estão 
-prejudicando teste GLOBO DTV (inicia 05/06).
-
-Especialista solicitou melhor resolução do time Tiktok.
-Consegue cobrar Tiktok PO para hoje?
-
-Se conseguirmos resolver hoje, conseguimos testar 
-antes de iniciar amanhã."
-```
-
-2. 📞 **Se Jessica não conseguir, liga Tiktok PO direto:**
-```
-"Tiktok - Vários vídeos no catálogo Magalu estão 
-com QUALIDADE BAIXA, prejudicando desempenho.
-
-Teste importante começa 05/06. Conseguem melhorar 
-resolução dos vídeos até hoje?"
-```
-
-3. ✅ **Resultado esperado:** Vídeos corrigidos até 02/06 (antes do teste)
-
----
-
-### **🔴 CRÍTICO #4: ERRO DEEPLINK iOS + Android**
-
-**Situação:**
-- 😶 **3+ semanas sem resolver**
-- 🔴 iOS: Erro quando direcionam para HOME (descoberto 20/05)
-- 🔴 Android: Novo erro descoberto (22/05)
-- ❌ **Emulação do erro não funciona** (engenheiros não conseguem reproduzir)
-- ❌ **Sem log = sem solução**
-- 🕵️ Imersão com: Tiktok, Labs, Akira (28/05)
-
-**Bloqueadores:**
-- Labs não consegue emular erro app store
-- Sem emulação = sem log do erro
-- Sem log = engenheiros não conseguem debugar
+- 🔴 Comercial reclamou que SKU não entrou com cupom
+- 🔴 Cupom estava ativo, mas produto NÃO foi vinculado à promoção
+- 🔴 Carregamento de associação erro!
+- 🔴 **+11 promoções com MESMO ERRO**
+- 🔴 LEVÁ15 também foi reprovada
+- 🔴 **Falta Promotion ID no cruzamento**
 
 **O que você precisa fazer:**
 
-1. 📞 **Liga Akira + Labs:**
+1. 🔍 **Liga Martech para aprofundamento:**
 ```
-"Deeplink error bloqueado: emulação não funciona.
+"Martech - Erro Cupom PLA crítico.
 
-Opções:
-1. Tiktok consegue enviar log direto?
-2. Labs consegue emular de outra forma?
-3. Conseguimos acesso ao SDK do app de tiktok?
+Problema: Produto não vinculando à promoção
+- Carregamento de associação error
+- Promotion ID faltando no cruzamento
+- +11 promoções com mesmo erro
 
-Agendamos segunda para brainstorm?
-
-Prazo: CRÍTICO."
+Vocês conseguem:
+1. Qual é a causa raiz?
+2. Por que 11 tiveram erro?
+3. Timeline para corrigir?"
 ```
 
-2. **Se não conseguir resolver by Labs:**
-   - Você escala para Tiktok oficialmente
-   - Pede suporte deles diretamente
+2. 📋 **Documentar:**
+   - Quais cupons afetados
+   - Timeline do erro
+   - Impacto em vendas
 
-3. ✅ **Resultado esperado:** Plano de ação até segunda
+3. ✅ **Resultado esperado:** Root cause até 10/06
 
 ---
 
-### **🔴 CRÍTICO #5: ACESSO LP PAY DAY DEV**
+### **🔴 CRÍTICO #3: TIKTOK VÍDEOS RESOLUÇÃO**
 
 **Situação:**
-- 🕵️ Dev perdeu acesso email (28/05)
-- ⌚ Solicitado que abra helpdesk (29/05)
-- ❌ Help Desk travado
-- 🗓️ **LP prevista para 02/06**
+- 😶 Jessica agenda **SOBRECARREGADA**
+- ⏰ Único horário: 12/06 (segunda-feira!)
+- 🔴 Vídeos qualidade baixa prejudicando desempenho
+- 📅 **Atraso de 1 semana desde 01/06**
 
 **O que você precisa fazer:**
 
-1. 📞 **Liga Help Desk:**
+1. 📞 **Validar priorização com Jessica:**
 ```
-"Help Desk - LP Pay Day dev perdeu acesso email.
+"Jessica - Vídeos Tiktok qualidade baixa.
 
-Solicitado helpdesk em 29/05, sem retorno.
-LP é 02/06.
+Conseguimos 12/06 (segunda), mas já é tarde.
+Podemos antecipar para 10/06?
 
-Quando conseguem restaurar acesso?"
+Se não conseguir, qual é o plano B?"
 ```
 
-2. **Se Help Desk não responder:**
-   - Você liga para TI diretamente
-   - Isso é BLOQUEADOR de produção
+2. **Se não conseguir 10/06:**
+   - Você escala para PO squad
+   - Encontra outro ponto de contato
 
-3. ✅ **Resultado esperado:** Acesso restaurado até amanhã
+3. ✅ **Resultado esperado:** Resolução até 10/06
+
+---
+
+### **🔴 CRÍTICO #4: META FREE SHIPPING - DISCREPÂNCIA MASSIVA**
+
+**Situação:**
+- 📊 Enviando 17.8k produtos com frete grátis
+- 📊 BM mostra apenas 3k produtos (83% diferença!)
+- 📊 Visão Raul: só vê 3k nas campanhas
+- 🔄 **Solução proposta:** Alteração Score Experiência
+- ⏳ Mônica avaliando prazo para rodar alteração
+
+**O que você precisa fazer:**
+
+1. 📞 **Validar com Mônica + Marielle:**
+```
+"Mônica/Marielle - Meta Free Shipping 83% diferença.
+
+17.8k vs 3k é exponencial.
+
+Proposta: Score Experiência + Regra geoloc
+
+Vocês conseguem:
+1. Timeline para alterar?
+2. Quanto aumenta volume esperado?
+3. Impacto em ROI?"
+```
+
+2. **Se demora muito:**
+   - Você cria plan B interim
+   - Continua com 3k enquanto ajusta
+
+3. ✅ **Resultado esperado:** 
+   - Alteração testada até 15/06
+   - Rodando até 20/06
+
+---
+
+### **🔴 CRÍTICO #5: PDP x BUSCA - PERSISTÊNCIA DO ERRO**
+
+**Situação:**
+- 😶 >10% diferença entre ROI Hunter e BM
+- 😶 Raul identificou: "não importa como faça"
+- 😶 Diferença persiste independente de ajustes
+- 😶 **Sem solução clara** ("Só Deus sabe")
+
+**O que você precisa fazer:**
+
+1. 🚨 **Escalação para Produto:**
+```
+"Raul/Benny - PDP x Busca persistente >10%.
+
+Raul já validou: não importa ajuste, diferença persiste.
+
+Isso é:
+1. Problema de dados/API?
+2. Problema de lógica de busca?
+3. Problema de ROI Hunter vs BM integração?
+
+Precisamos de root cause + solução.
+
+Conseguem deep dive?"
+```
+
+2. **Se é problema técnico:**
+   - Você facilita workshop com devs
+   - Define roadmap de correção
+
+3. ✅ **Resultado esperado:** Root cause até 12/06
 
 ---
 
 ## 🎯 ACIONÁVEIS GERENCIAIS - O QUE VOCÊ FAZ
 
-### **HOJE 01/06 (2h - CRÍTICO)**
+### **HOJE 08/06 (2h30 - CRÍTICO)**
 
-#### ☐ **AÇÃO 1: Escalação Netflix Contrato (30 min)**
+#### ☐ **AÇÃO 1: Pixel Globo - Escalação Monks (30 min)**
 ```
-PRIORIDADE: 🔴 MÁXIMA
+"Monks/Akira - CRÍTICO.
 
-"[Seu Gestor] + Advogado,
+Status: Prometido 03/06, recuou.
+Globo dependendo 100%.
 
-Netflix contrato tem FALHAS JURÍDICAS graves:
-1. Multa 3x do valor pago (primeiros meses grátis!)
-2. Atualização automática não definida
-3. Gestão contrato só na França
-
-Pode ser RISCO FINANCEIRO ENORME.
-
-Preciso que revise hoje para segunda-feira?"
+Vocês conseguem:
+1. Retomar implementação?
+2. Prazo realista?
+3. O que precisa de ajuda?"
 ```
 
-#### ☐ **AÇÃO 2: Help Desk - 2 Acessos Críticos (30 min)**
+#### ☐ **AÇÃO 2: Globo Felipe - Evento Checkout (15 min)**
 ```
-"Help Desk - Dois acessos CRÍTICOS travados:
+"Felipe - Evento Checkout contra nossas políticas.
 
-1. LUCAS SEO (1 semana!)
-   - SSO ok, Email Turia ok
-   - Próximo passo?
-   
-2. LP PAY DAY DEV (LP é 02/06!)
-   - Perdeu acesso email
-   - Restaurar quando?
-
-Resposta até EOD hoje."
+Ofereço todos outros eventos + Pixel em 48h.
+Conseguem remover Checkout?"
 ```
 
-#### ☐ **AÇÃO 3: Jessica + Tiktok - Vídeos Qualidade (20 min)**
+#### ☐ **AÇÃO 3: Martech - Erro Cupom PLA (20 min)**
 ```
-"Jessica/Tiktok PO - Vídeos qualidade baixa estão 
-prejudicando teste GLOBO (inicia 05/06).
+"Martech - +11 promoções com erro de vinculação.
 
-Conseguem corrigir hoje?"
-```
-
-#### ☐ **AÇÃO 4: Akira + Labs - Deeplink Emulação (20 min)**
-```
-"Akira/Labs - Deeplink bloquedo por falta de emulação.
-
-Opções:
-1. Tiktok envia log direto?
-2. Emular de outro jeito?
-3. Acesso SDK?
-
-Agendamos segunda?"
+Root cause? Timeline? Posso ajudar?"
 ```
 
-#### ☐ **AÇÃO 5: Validar Imersão IA Mari (10 min)**
+#### ☐ **AÇÃO 4: Produto - PDP x Busca (20 min)**
 ```
-"Mari - Primeira devolutiva MVP curva saturação segunda?
-Você consegue suportar construção?"
+"Raul/Benny - Diferença >10% persiste.
+
+Root cause? Conseguem deep dive?"
 ```
 
-**Meta:** 5/5 ações ✅ até EOD hoje
+#### ☐ **AÇÃO 5: Mônica - Meta Free Shipping (15 min)**
+```
+"Mônica - 17.8k vs 3k (83% diferença!).
+
+Timeline para alteração Score Experiência?"
+```
+
+#### ☐ **AÇÃO 6: Validar Jessica - Tiktok Video (10 min)**
+```
+"Jessica - Pode antecipar 12/06 para 10/06?
+Se não, qual é plan B?"
+```
+
+**Meta:** 6/6 ações ✅ até EOD hoje
 
 ---
 
-### **PRÓXIMOS DIAS (02/06-07/06)**
+### **PRÓXIMOS DIAS (09/06-17/06)**
 
-#### 🗓️ **02/06 - LP Pay Day Deploy**
-- ✅ Validar que acesso foi restaurado
-- ✅ Deploy sem problemas
+#### 🗓️ **09/06 - SEGUNDA**
+- ✅ Pixel Globo implementado?
+- ✅ Cupom PLA root cause?
+- ✅ Meta Free Shipping timeline?
 
-#### 🗓️ **05/06 - Teste Busca X PDP Inicia**
-- ⚠️ Página alerta fora do ar? Validar!
-- ✅ Catálogos equiparados?
+#### 🗓️ **10/06 - TERÇA**
+- ✅ Vídeos Tiktok resolvidos? (Jessica)
+- ✅ PDP x Busca root cause?
 
-#### 🗓️ **07/06 - Globo DTV Acompanhamento**
-- ✅ Fluxo funcionando?
-- ✅ Métricas ativas?
+#### 🗓️ **12/06 - QUINTA**
+- ✅ Jessica Tiktok agenda (se não conseguiu antes)
+- ✅ Deeplink document review?
+
+#### 🗓️ **17/06 - TERÇA**
+- ✅ Delivery Magalu quinzenal (Appsflyer limitations)
+- ✅ Automatização Frete Grátis (08/06 baseline)
 
 ---
 
 ## 📋 SUMÁRIO CONSOLIDADO
 
-### **✅ FINALIZADAS (70 - 74%)**
+### **✅ FINALIZADAS (102 - 71%)**
 ```
-Acesso Carla, Treinamentos Appsflyer, Bloqueios imagens,
-IA Teams (3P, 4P, Brandformance), Kwai (roadmap + estoque),
-Google Martech, LP Julho, Meta Iniciativas, DP6 Appsflyer,
-LP Pay Day (liberação), Erro Tiktok (descoberta),
-Catálogo Imersão, Consent Mode GA, Akira Alinhamento,
-Pinterest, Microsoft, Globo DTV (antecipação),
-Onboarding Helena, LIA Fix, Merchant Excellence,
-Destaque Mês, LP Junho SEO, E muitas mais...
+Data Strenght, Roadmap, Consent Mode, Globo DTV (entrega),
+Acesso Lucas (email), Acesso Tomaz, Treinamento Appsflyer,
+Frete Grátis (slides), Bloqueio Cupons (CEL200, TEL100, TEL700),
+Processo Bloqueio (Merenda + Michel), Slides Frete Grátis,
+LPs (ajuste link), Destaque Mês, Delivery Magalu,
+Erros Deeplink doc, E muitas mais...
 ```
 
-### **⌚ AGUARDANDO (15)**
+### **⌚ AGUARDANDO (22)**
 ```
-Netflix (segurança + jurídico)
-Vídeos Tiktok (qualidade)
-Acesso Lucas SEO (Help Desk)
-Acesso LP Pay Day (Help Desk)
-Data Strenght (Mat)
-Tiktok Android Erro (Deivid/Wander)
-Bucket Mirum (Rafa/Kana)
-Evento Purchase (Appsflyer)
-Pixel Spotify (recobrança 2x!)
-LP Pay Day (Monks/Promo)
-Magalupay destaque
+Netflix Contrato (jurídico)
+Tiktok Vídeos (Jessica 12/06)
+Erro Redirecionamento IG (Lucas teste)
+Produto Ratings (Google)
+Cupom dados (Fernando Luma)
+Meta Free Shipping (Mônica)
+Shenlong Bloqueio (investigação)
+Dados Anotações (Pedro cupom)
+Pixel Globo (Labs)
+Delivery quinzenal (17/06)
 E outros...
 ```
 
-### **🕵️ INVESTIGAÇÃO (8)**
+### **🕵️ INVESTIGAÇÃO (13)**
 ```
-Acesso Lucas SEO (Kirk flow)
-Acesso LP Pay Day (email)
-Vídeos Tiktok (qualidade baixa)
-Deeplink iOS + Android (emulação)
-Ratings Google ("not enabled")
-Power BI Automatização
-Teste Busca X PDP (página alerta)
+Cupom PLA Vinculação (11+ erros)
+PDP x Busca (>10% persistente)
+Meta Free Shipping (83% diferença)
+Shenlong bloqueio erro
+Promotion ID cruzamento
+Ratings Product canibalização
 E outros...
 ```
 
-### **🗓️ AGENDADAS (2)**
+### **🗓️ AGENDADAS (6)**
 ```
-Teste Busca X PDP (05/06)
-Globo DTV (07/06)
-Imersão IA Mari (segunda)
-Netflix Jurídico (segunda)
+Tiktok Video (12/06 Jessica)
+Pixel Globo (Labs definindo)
+Delivery Appsflyer (17/06)
+Frete Grátis (final 08/06)
+LP Pay Day (06/06)
+Automatização Frete (08/06)
 ```
 
 ---
 
 ## ⚠️ **ITENS CRÍTICOS DE ATENÇÃO**
 
-### **🔴 Netflix Contrato - BOMBA JURÍDICA**
-- Falhas graves em contrato
-- **VOCÊ PRECISA ESCALAR PARA GESTOR HOJE**
+### **🆘 PIXEL GLOBO - HOJE!**
+- Monks recuou, especialista desesperada
+- **VOCÊ PRECISA ESCALAR HOJE**
 
-### **🔴 Help Desk - 2 Acessos Críticos Travados**
-- Lucas SEO (1 semana!)
-- LP Pay Day (LP é amanhã!)
-- **VOCÊ PRECISA PRESSIONAR HELP DESK HOJE**
+### **🔴 Cupom PLA - 11+ Erros**
+- Erro de vinculação produto-promoção
+- Falta Promotion ID
+- **Root cause indefinido**
 
-### **🔴 Vídeos Tiktok - Impactando Teste**
-- Qualidade baixa
-- Teste inicia 05/06
-- **VOCÊ PRECISA COBRAR JESSICA/TIKTOK HOJE**
+### **🔴 Meta Free Shipping - 83% Diferença**
+- 17.8k enviados vs 3k vistos
+- Score Experiência + geoloc = solução
+- **Timeline indefinida**
 
-### **🟠 Especialista em Sobrecarga**
-- 95 demandas em 1 mês
-- Múltiplos "Só Jesus na causa"
-- **CONSIDERE REDUZIR DEMANDAS OU ALOCAR SUPPORT**
+### **🟠 Especialista em SOBRECARGA EXTREMA**
+- 143 demandas em 6 semanas (~4/dia)
+- Especialista "desesperada"
+- Domingo trabalhando (08/06)
+- **PRECISA REDUZIR CARGA OU ALOCAR HELP**
 
 ---
 
 ## 💼 **TEMPLATES DE COMUNICAÇÃO**
 
-### **Template 1: Escalação Netflix (MÁXIMA PRIORIDADE)**
+### **Template 1: Pixel Globo - Escalação Monks**
 ```
-Assunto: [URGENTE] Netflix Contrato - Falhas Jurídicas CRÍTICAS
+Assunto: [CRÍTICO] Pixel Globo GTM - Monks Recuou
 
-[Seu Gestor + Advogado],
+Monks,
 
-Contrato Netflix/Liveramp tem TRÊS FALHAS JURÍDICAS GRAVES:
+SITUAÇÃO:
+- 03/06: Prometido finalizado para publicação
+- 18h 03/06: Monks recuou na implementação
+- 08/06: Globo esperando solução
 
-1. 🔴 MULTA DE 3X DO VALOR PAGO se houver problema
-   - Primeiros meses são GRÁTIS
-   - Se problema ocorre = pagamos 3x SEM RECEITA
+Globo ADIOU API inteira, 100% dependendo do Pixel.
 
-2. 🔴 ATUALIZAÇÃO AUTOMÁTICA DO CONTRATO não definida
-   - Risco de perder acesso
-   - Sem renovação automática = cancelamento
+AÇÃO URGENTE:
+Vocês conseguem retomar implementação?
 
-3. 🔴 GESTÃO DE CONTRATO APENAS NA FRANÇA
-   - Qualquer disputa → só resolve lá
-   - Custo e tempo exponenciais
+1. Qual é o bloqueador?
+2. Prazo realista?
+3. Como posso ajudar?
 
-Status: BLOQUEADO aguardando aprovação segurança + jurídico.
-
-AÇÃO: Precisamos revisar e pedir correções antes de assinar.
-
-Conseguem revisar HOJE para segunda-feira resolver?
+Especialista está disponível 24/7 para resolver.
 
 Obrigado,
 [Seu Nome]
 ```
 
-### **Template 2: Help Desk - Acessos Críticos**
+### **Template 2: Martech - Cupom PLA Erro**
 ```
-Assunto: [CRÍTICO] 2 Acessos Bloqueando Produção
+Assunto: [CRÍTICO] Cupom PLA - 11+ Promoções com Erro
 
-Help Desk,
+Martech,
 
-Dois acessos CRÍTICOS estão travados:
+PROBLEMA:
+- Comercial reportou: SKU não vinculando à promoção
+- Carregamento de associação ERROR
+- **+11 promoções com MESMO ERRO**
+- Falta Promotion ID no cruzamento
 
-1. LUCAS SEO (TRAVADO 1 SEMANA)
-   - 20/05: Solicitado
-   - 26/05: Aprovações ok
-   - 01/06: SSO ok, Email Turia ok
-   - 01/06: Help Desk → ?????
-   
-   Próximo passo exato? Timeline?
+IMPACTO:
+- Cupons não funcionando
+- Promoções reprovadas (LEVÁ15)
+- Receita perdida
 
-2. LP PAY DAY DEV (LP AMANHÃ 02/06!)
-   - 28/05: Perdeu acesso email
-   - 29/05: Solicitado helpdesk
-   - 01/06: Sem resposta
-   
-   Quando conseguem restaurar?
+AÇÃO:
+1. Root cause?
+2. Qual é o erro específico?
+3. Timeline para corrigir?
 
-NOVO FLUXO KIRK: Não está claro. 
-Especialista está perdida.
+Preciso de resposta até EOD amanhã.
 
-PRAZO: Resposta até EOD hoje.
+Obrigado,
+[Seu Nome]
+```
+
+### **Template 3: Produto - PDP x Busca Persistência**
+```
+Assunto: PDP x Busca - Diferença >10% Persiste
+
+Raul/Benny,
+
+PDP x Busca continua com >10% diferença 
+independente de ajustes.
+
+Raul já validou: "não importa como faça, diferença persiste".
+
+ISSO É:
+1. Problema de dados/API?
+2. Problema de lógica busca?
+3. Problema de integração ROI Hunter vs BM?
+
+AÇÃO:
+Conseguem fazer deep dive e identificar root cause?
+
+Especialista pode ajudar investigação.
 
 Obrigado,
 [Seu Nome]
@@ -601,16 +543,16 @@ Obrigado,
 
 ---
 
-## ✅ **CHECKLIST FINAL PARA VOCÊ (01/06)**
+## ✅ **CHECKLIST FINAL PARA VOCÊ (08/06)**
 
 Antes de terminar o dia:
 
-- [ ] **Escala Netflix contrato** (jurídico!)
-- [ ] **Pressiona Help Desk** (2 acessos)
-- [ ] **Cobra Jessica + Tiktok** (vídeos)
-- [ ] **Alinha Akira/Labs** (deeplink)
-- [ ] **Suporta Mari** (IA MVP)
-- [ ] **Valida especialista** (sobrecarga?)
+- [ ] **Escala Pixel Globo** (Monks + Felipe)
+- [ ] **Escalação Cupom PLA** (Martech)
+- [ ] **Produto PDP x Busca** (Raul/Benny)
+- [ ] **Meta Free Shipping** (Mônica)
+- [ ] **Jessica Tiktok** (antecipar?)
+- [ ] **Avaliar especialista** (sobrecarga extrema!)
 
 **Meta:** 6/6 ✅ até EOD
 
@@ -618,26 +560,29 @@ Antes de terminar o dia:
 
 ## 🎯 **RESUMO PARA SEU GESTOR**
 
-**Situação (01/06):**
-- ✅ 70 demandas finalizadas (74%) - EXCELENTE!
-- 🔴 5 bloqueadores críticos precisam ação HOJE
-- 🔴 Netflix contrato em risco jurídico GRAVE
-- 🔴 Help Desk deixando acessos críticos travados
-- ⚠️ Especialista mostra sinais de sobrecarga (95 demandas!)
-- 📅 Especialista de férias em 3 semanas
+**Situação CRÍTICA (08/06):**
+- ✅ 102 demandas finalizadas (71%) - Ótimo!
+- 🆘 **Pixel Globo em EMERGÊNCIA** (Monks recuou)
+- 🔴 **Cupom PLA com 11+ erros** (root cause?)
+- 🔴 **Meta Free Shipping 83% diferença** (massive!)
+- 🔴 **PDP x Busca persistente** (produto issue?)
+- ⚠️ **Especialista em sobrecarga extrema**
+  - 143 demandas em 6 semanas (4/dia!)
+  - Reportando "desesperada"
+  - Trabalhando fim de semana
 
 **Ações urgentes de você:**
-1. ✅ **Escalar Netflix contrato com jurídico** (HOJE!)
-2. ✅ **Pressionar Help Desk** (acessos críticos)
-3. ✅ **Cobrar vídeos Tiktok** (teste crítico 05/06)
-4. ✅ **Validar Deeplink solução** (Labs + Akira)
-5. ✅ **Avaliar sobrecarga especialista**
+1. ✅ **Escalar Pixel Globo (HOJE!)** - Emergência
+2. ✅ **Pressionar Martech Cupom** (11+ erros)
+3. ✅ **Validar Produto PDP x Busca** (>10% persistente)
+4. ✅ **Acelerar Meta Free Shipping** (83% diferença!)
+5. ✅ **REDUZIR CARGA ESPECIALISTA** (urgente!)
 
-**Impacto:** ~2h gestão = evita risco jurídico de CENTENAS DE MILHARES + destranca acessos críticos + mantém testes no prazo
+**Impacto:** ~2h gestão = evita crises + resolve bloqueadores + cuida da saúde do time
 
 ---
 
-**Documento atualizado:** 01/06/2026 - 23:59  
+**Documento atualizado:** 08/06/2026 - 23:59  
 **Próxima atualização:** Quando você enviar novo status
 
-**Status Geral:** 📈 EXCELENTE progresso (74%), com 5 bloqueadores críticos que VOCÊ precisa resolver HJE
+**Status Geral:** 📈 Bom progresso (71%), com 5 bloqueadores críticos HOJE + especialista em sobrecarga extrema que precisa intervenção gerencial URGENTE
