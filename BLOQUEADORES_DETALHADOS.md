@@ -19,20 +19,30 @@
 
 ---
 
-## 🚨 BLOQUEADORES CRÍTICOS ATUALIZADOS (08/06)
+## 🚨 TOP 20 BLOQUEADORES CRÍTICOS ATUALIZADOS (08/06)
 
 | # | Demanda | Status | Bloqueador | Prazo | Ação Gerencial |
 |---|---------|--------|-----------|-------|----------------|
-| 🔴 P1 | **Pixel Globo GTM** | 🆘 EMERGÊNCIA | Time Monks mudou prio, pediu extensão | **HOJE** | 📞 Escalação urgente |
-| 🔴 P2 | **Erro Cupom PLA Vinculação** | 📚 Investigação | 11+ promoções com erro + falta Promotion ID | **URGENTE** | 🔍 Martech investigando |
-| 🔴 P3 | **Tiktok Vídeos Resolução** | 😶 Travado | Jessica agenda sobrecarregada | **12/06** | 📞 Validar priorização |
-| 🔴 P4 | **Meta Free Shipping Discrepância** | 📚 Complexo | 17.8k produtos vs 3k nas campanhas (83% diferença!) | **Indefinido** | 🔄 Alteração Score Experiência |
-| 🔴 P5 | **PDP x Busca ROI Hunter vs BM** | 😶 Crítico | >10% diferença persistente, sem solução | **Indefinido** | 🚨 Escalação produto |
-| 🟠 P6 | **Netflix Contrato** | 🗓️ Aguardando | Jurídico avaliando termos + anexos | **Indefinido** | ⚖️ Acompanhar jurídico |
-| 🟠 P7 | **Shenlong Cupom Bloqueio** | 🕵️ Investigação | Erro na vinculação produto-promoção | **Indefinido** | 🔧 Martech ajustando |
-| 🟠 P8 | **Erro Redirecionamento Instagram** | ⌚ Teste | Appsflyer removendo tela intermediária | **Pendente** | ⌚ Aguardando Lucas App |
-| 🟠 P9 | **Delivery Magalu Appsflyer** | 🗓️ Agendado | Quinzenal 17/06, limitação de separação miniapp | **17/06** | 📋 Investigar workaround |
-| 🟠 P10 | **Globo DTV API** | ✅ Progresso | Adiada para setembro, Pixel prioritário | **07/06** | ✅ Acompanhar pixel |
+| 🔴 P1 | **Pixel Globo GTM** | 🆘 EMERGÊNCIA | Monks mudou prio, recuou na implementação | **HOJE** | 📞 Escalação urgente Monks + Felipe |
+| 🔴 P2 | **Erro Cupom PLA Vinculação** | 📚 Investigação | 11+ promoções com erro + falta Promotion ID | **URGENTE** | 🔍 Root cause Martech |
+| 🔴 P3 | **Meta Free Shipping Discrepância** | 📚 Complexo | 17.8k produtos vs 3k nas campanhas (83% diferença!) | **Indefinido** | 🔄 Acelerar alteração Score Experiência (Mônica) |
+| 🔴 P4 | **Tiktok Vídeos Resolução** | 😶 Travado | Jessica agenda sobrecarregada, só 12/06 | **12/06** | 📞 Validar antecipação ou plan B |
+| 🔴 P5 | **PDP x Busca ROI Hunter vs BM** | 😶 Crítico | >10% diferença persistente, sem solução | **Indefinido** | 🚨 Escalação produto (Raul/Benny) |
+| 🟠 P6 | **Netflix Contrato Falhas Jurídicas** | 🗓️ Aguardando | Liveramp emitiu com graves falhas (multa 3x!) | **Indefinido** | ⚖️ Escalação jurídico urgente |
+| 🟠 P7 | **Shenlong Cupom Bloqueio** | 🕵️ Investigação | Erro na vinculação produto-promoção | **Indefinido** | 🔧 Martech investigando |
+| 🟠 P8 | **Erro Redirecionamento Instagram** | ⌚ Teste | Appsflyer removendo tela intermediária | **Pendente** | ⌚ Aguardando teste Lucas App |
+| 🟠 P9 | **Delivery Magalu Appsflyer Miniapp** | 🗓️ Agendado | Limitação de separação miniapp dentro Super app | **17/06** | 📋 Investigar workaround com Appsflyer |
+| 🟠 P10 | **Globo DTV API** | ✅ Progresso | Adiada para setembro, Pixel prioritário | **07/06** | ✅ Pixel implementado |
+| 🟠 P11 | **Acesso Lucas SEO Kirk Flow** | ✅ Resolvido | Email senha estava errada, Help Desk resolvido | **03/06** | ✅ Finalizado |
+| 🟠 P12 | **LP Pay Day Banner Hero** | 🗓️ Agendado | Monks não viu que Ogilvy já tinha mandado artes | **06/06** | 📋 Acompanhar Monks + Brandformance |
+| 🟠 P13 | **Acesso LP Pay Day Dev** | ✅ Resolvido | Dev perdeu acesso email, Help Desk resolvido | **03/06** | ✅ Finalizado |
+| 🟠 P14 | **Automatização Frete Grátis** | 🗓️ Agendado | Slide para Marielle, ajustes final layout | **08/06** | 📋 Validar com Marielle + Felipe |
+| 🟠 P15 | **Implementação Pixel Globo Events** | 🗓️ Agendado | Globo pediu evento Checkout (contra políticas) | **Próx** | 📋 Remover Checkout, só outros eventos |
+| 🟠 P16 | **Dados Anotações Painel Iniciativas** | ⌚ Aguardando | Falta cupom que Pedro Kallebe ficou de arrumar | **Indefinido** | ⌚ Aguardando Pedro (Google) |
+| 🟠 P17 | **Dados Históricos Catálogo** | ⌚ Aguardando | Informações Google pendentes | **Indefinido** | ⌚ Aguardando Google |
+| 🟠 P18 | **Product Ratings Canibalização** | 🕵️ Investigação | Investigação hipótese com Google | **Indefinido** | ⌚ Aguardando Google investigação |
+| 🟠 P19 | **Cupom Dados Exportação** | ⌚ Aguardando | Fernando Luma pendente de retorno | **Indefinido** | ⌚ Aguardando Fernando |
+| 🟠 P20 | **Meta Free Shipping Score Experiência** | 📚 Complexo | Alteração para enviar por estado + score | **Indefinido** | 📋 Mônica definindo timeline |
 
 ---
 
@@ -212,35 +222,7 @@ Vocês conseguem:
 
 ---
 
-### **🔴 CRÍTICO #3: TIKTOK VÍDEOS RESOLUÇÃO**
-
-**Situação:**
-- 😶 Jessica agenda **SOBRECARREGADA**
-- ⏰ Único horário: 12/06 (segunda-feira!)
-- 🔴 Vídeos qualidade baixa prejudicando desempenho
-- 📅 **Atraso de 1 semana desde 01/06**
-
-**O que você precisa fazer:**
-
-1. 📞 **Validar priorização com Jessica:**
-```
-"Jessica - Vídeos Tiktok qualidade baixa.
-
-Conseguimos 12/06 (segunda), mas já é tarde.
-Podemos antecipar para 10/06?
-
-Se não conseguir, qual é o plano B?"
-```
-
-2. **Se não conseguir 10/06:**
-   - Você escala para PO squad
-   - Encontra outro ponto de contato
-
-3. ✅ **Resultado esperado:** Resolução até 10/06
-
----
-
-### **🔴 CRÍTICO #4: META FREE SHIPPING - DISCREPÂNCIA MASSIVA**
+### **🔴 CRÍTICO #3: META FREE SHIPPING - DISCREPÂNCIA MASSIVA**
 
 **Situação:**
 - 📊 Enviando 17.8k produtos com frete grátis
@@ -272,6 +254,34 @@ Vocês conseguem:
 3. ✅ **Resultado esperado:** 
    - Alteração testada até 15/06
    - Rodando até 20/06
+
+---
+
+### **🔴 CRÍTICO #4: TIKTOK VÍDEOS - RESOLUÇÃO BAIXA**
+
+**Situação:**
+- 😶 Jessica agenda **SOBRECARREGADA**
+- ⏰ Único horário: 12/06 (segunda-feira!)
+- 🔴 Vídeos qualidade baixa prejudicando desempenho
+- 📅 **Atraso de 1 semana desde 01/06**
+
+**O que você precisa fazer:**
+
+1. 📞 **Validar priorização com Jessica:**
+```
+"Jessica - Vídeos Tiktok qualidade baixa.
+
+Conseguimos 12/06 (segunda), mas já é tarde.
+Podemos antecipar para 10/06?
+
+Se não conseguir, qual é o plano B?"
+```
+
+2. **Se não conseguir 10/06:**
+   - Você escala para PO squad
+   - Encontra outro ponto de contato
+
+3. ✅ **Resultado esperado:** Resolução até 10/06
 
 ---
 
