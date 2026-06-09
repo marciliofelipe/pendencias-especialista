@@ -1,7 +1,7 @@
 # 🎯 BLOQUEADORES DETALHADOS + ACIONÁVEIS GERENCIAIS
 **Período:** 28/04 - 08/06/2026  
 **Para:** Gestor de Especialista  
-**Status:** 143 demandas mapeadas (update completo 02/06-08/06)
+**Status:** 144 demandas mapeadas (update completo 02/06-08/06)
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Métrica | Total |
 |---------|-------|
-| **Total de Demandas** | 143 |
-| **✅ Finalizadas** | 102 |
+| **Total de Demandas** | 144 |
+| **✅ Finalizadas** | 103 |
 | **⌚ Aguardando** | 22 |
 | **🕵️ Investigação** | 13 |
 | **🗓️ Agendadas** | 6 |
 
-**Taxa de Conclusão:** 71% | **Acompanhamento Ativo:** 27%
+**Taxa de Conclusão:** 72% | **Acompanhamento Ativo:** 26%
 
 ---
 
@@ -23,7 +23,7 @@
 
 | # | Demanda | Status | Bloqueador | Prazo | Ação Gerencial |
 |---|---------|--------|-----------|-------|----------------|
-| 🔴 P1 | **Pixel Globo GTM** | 🆘 EMERGÊNCIA | Monks mudou prio, recuou na implementação | **HOJE** | 📞 Escalação urgente Monks + Felipe |
+| 🔴 P1 | **Pixel Globo GTM** | 🔄 Em Andamento | Monks mudou prio, recuou na implementação | **09/06** | 📞 Acompanhar Monks + Felipe |
 | 🔴 P2 | **Erro Cupom PLA Vinculação** | 📚 Investigação | 11+ promoções com erro + falta Promotion ID | **URGENTE** | 🔍 Root cause Martech |
 | 🔴 P3 | **Meta Free Shipping Discrepância** | 📚 Complexo | 17.8k produtos vs 3k nas campanhas (83% diferença!) | **Indefinido** | 🔄 Acelerar alteração Score Experiência (Mônica) |
 | 🔴 P4 | **Tiktok Vídeos Resolução** | 😶 Travado | Jessica agenda sobrecarregada, só 12/06 | **12/06** | 📞 Validar antecipação ou plan B |
@@ -32,16 +32,16 @@
 | 🟠 P7 | **Shenlong Cupom Bloqueio** | 🕵️ Investigação | Erro na vinculação produto-promoção | **Indefinido** | 🔧 Martech investigando |
 | 🟠 P8 | **Erro Redirecionamento Instagram** | ⌚ Teste | Appsflyer removendo tela intermediária | **Pendente** | ⌚ Aguardando teste Lucas App |
 | 🟠 P9 | **Delivery Magalu Appsflyer Miniapp** | 🗓️ Agendado | Limitação de separação miniapp dentro Super app | **17/06** | 📋 Investigar workaround com Appsflyer |
-| 🟠 P10 | **Globo DTV API** | ✅ Progresso | Adiada para setembro, Pixel prioritário | **07/06** | ✅ Pixel implementado |
-| 🟠 P11 | **Acesso Lucas SEO Kirk Flow** | ✅ Resolvido | Email senha estava errada, Help Desk resolvido | **03/06** | ✅ Finalizado |
-| 🟠 P12 | **LP Pay Day Banner Hero** | 🗓️ Agendado | Monks não viu que Ogilvy já tinha mandado artes | **06/06** | 📋 Acompanhar Monks + Brandformance |
+| 🔴 P10 | **Globo DTV API** | ❌ Deprecada | API deprecada, Pixel prioritário em andamento | **Em andamento** | 🔄 Acompanhar implementação Pixel |
+| 🟢 P11 | **Acesso Lucas SEO Kirk Flow** | ✅ Resolvido | Email senha estava errada, Help Desk resolvido | **03/06** | ✅ Finalizado |
+| 🟢 P12 | **LP Pay Day Banner Hero** | ✅ Resolvido | Monks alinhado, Ogilvy vai entregar | **06/06** | ✅ Finalizado |
 | 🟠 P13 | **Acesso LP Pay Day Dev** | ✅ Resolvido | Dev perdeu acesso email, Help Desk resolvido | **03/06** | ✅ Finalizado |
 | 🟠 P14 | **Automatização Frete Grátis** | 🗓️ Agendado | Slide para Marielle, ajustes final layout | **08/06** | 📋 Validar com Marielle + Felipe |
 | 🟠 P15 | **Implementação Pixel Globo Events** | 🗓️ Agendado | Globo pediu evento Checkout (contra políticas) | **Próx** | 📋 Remover Checkout, só outros eventos |
 | 🟠 P16 | **Dados Anotações Painel Iniciativas** | ⌚ Aguardando | Falta cupom que Pedro Kallebe ficou de arrumar | **Indefinido** | ⌚ Aguardando Pedro (Google) |
-| 🟠 P17 | **Dados Históricos Catálogo** | ⌚ Aguardando | Informações Google pendentes | **Indefinido** | ⌚ Aguardando Google |
-| 🟠 P18 | **Product Ratings Canibalização** | 🕵️ Investigação | Investigação hipótese com Google | **Indefinido** | ⌚ Aguardando Google investigação |
-| 🟠 P19 | **Cupom Dados Exportação** | ⌚ Aguardando | Fernando Luma pendente de retorno | **Indefinido** | ⌚ Aguardando Fernando |
+| 🟡 P17 | **Dados Históricos Catálogo** | ⌚ Validar | Informações Google pendentes - VALIDAR STATUS | **Indefinido** | ⌚ Validar com Mariele/Google |
+| 🟠 P18 | **MVPs IA - Renata** | 🗓️ Agendado | Renata analisando oportunidades de uso de IA | **Em progresso** | 📊 Acompanhar análise Renata |
+| 🟠 P19 | **Product Ratings Canibalização** | 🕵️ Investigação | Investigação hipótese com Google | **Indefinido** | ⌚ Aguardando Google investigação |
 | 🟠 P20 | **Meta Free Shipping Score Experiência** | 📚 Complexo | Alteração para enviar por estado + score | **Indefinido** | 📋 Mônica definindo timeline |
 
 ---
@@ -87,7 +87,7 @@
 - ✅ Bloqueio Cupons (CEL200, TEL100, TEL700)
 
 #### 🗓️ Agendadas (2)
-- 🗓️ LP Pay Day (06/06 - banner hero)
+- 🗓️ LP Pay Day (06/06 - banner hero) ✅ RESOLVIDO
 - 🗓️ Automatização Frete Grátis (08/06)
 
 #### 🆘 EMERGÊNCIA (1)
@@ -118,7 +118,7 @@
 
 ### **08/06 - DOMINGO**
 
-#### ✅ Finalizadas (4)
+#### ��� Finalizadas (4)
 - ✅ Ajuste Slides Frete Grátis (layout)
 - ✅ Documento Controle Erros (Deeplink + Atribuição)
 - ✅ Delivery Magalu Appsflyer (suporte metrificação)
@@ -137,52 +137,40 @@
 
 ## 📊 ANÁLISE DETALHADA - BLOQUEADORES CRÍTICOS
 
-### **🔴 CRÍTICO #1: PIXEL GLOBO GTM - EMERGÊNCIA (08/06)**
+### **🔴 CRÍTICO #1: PIXEL GLOBO GTM - EM ANDAMENTO (09/06)**
 
 **Situação:**
-- 🆘 **EMERGÊNCIA TODAY** - Globo adiou API, quer Pixel prioritário
-- ✅ Monks prometeu finalizado para publicação HOJE (03/06)
-- ✅ Akira tinha finalizado
-- ⏸️ **18h voltaram atrás!** Monks recuou
-- 🔴 Globo pediu evento em Checkout (contra políticas internas)
-- ⚠️ Especialista "desesperada tentando resolver"
+- 🔄 **EM ANDAMENTO** - Monks em progress
+- ❌ API foi DEPRECADA (não adiada para setembro)
+- ✅ Pixel é prioridade agora
+- ⚠️ Especialista estava desesperada mas agora em andamento
 
-**O que você precisa fazer (HOJE 08/06):**
+**O que você precisa fazer:**
 
-1. 📞 **Liga para Lead Monks + Akira:**
+1. 📞 **Acompanhar Monks + Labs:**
 ```
-"Monks/Akira - Pixel Globo é CRÍTICO.
+"Monks/Labs - Pixel Globo em andamento.
 
 Status:
-- 03/06: Prometido pra publicação
-- 18h 03/06: Monks recuou
-
-Globo adiou API, dependendo 100% do Pixel.
+- API: Deprecada
+- Pixel: Prioridade agora
+- Monks: Em development
 
 Vocês conseguem:
-1. Retomar implementação?
-2. Prazo realista?
-3. O que trava?"
+1. Prazo realista para publicação?
+2. Testes já iniciaram?
+3. Precisa de help?"
 ```
 
-2. 📞 **Liga Globo (Felipe):**
+2. 📞 **Validar com Felipe (Globo):**
 ```
-"Felipe - sobre o evento de Checkout:
+"Felipe - Pixel Globo em implementação.
 
-Contra nossas políticas internas de segurança.
-Não conseguimos implementar.
-
-Posso oferecer:
-1. Todos outros eventos (sem Checkout)
-2. Pixel pronto em 48h
-3. Mais dados via API em setembro
-
-Consegue remover Checkout da solicitação?"
+Esperamos publicação até 09/06.
+Atualizamos conforme progresso."
 ```
 
-3. ✅ **Resultado esperado:** 
-   - Pixel implementado até 09/06
-   - Globo sem evento Checkout
+3. ✅ **Resultado esperado:** Pixel publicado até 09/06
 
 ---
 
@@ -319,76 +307,120 @@ Conseguem deep dive?"
 
 ---
 
+### **🟡 CRÍTICO #17: DADOS HISTÓRICOS CATÁLOGO - VALIDAR**
+
+**Situação:**
+- ⌚ Informações solicitadas por Mariele
+- ⌚ Algumas infos ainda pendentes do Google
+- 🟡 **STATUS PRECISA VALIDAÇÃO**
+
+**O que você precisa fazer:**
+
+1. 📞 **Validar com Mariele:**
+```
+"Mariele - Dados históricos catálogo.
+
+Status das informações pendentes do Google?
+Conseguem fazer follow-up?"
+```
+
+2. ✅ **Resultado esperado:** Status claro até amanhã
+
+---
+
+### **🟠 NOVO: MVPs IA - RENATA ANALISANDO**
+
+**Situação:**
+- 🗓️ **Em progresso** - Renata analisando
+- 📊 Oportunidades de uso de IA com o time
+- 🔍 Análise em fase exploratória
+
+**O que você precisa fazer:**
+
+1. 📞 **Acompanhar Renata:**
+```
+"Renata - MVPs IA.
+
+Como está a análise de oportunidades?
+Quando teremos primeiro brainstorm?
+
+Especialista quer participar."
+```
+
+2. 📋 **Suportar:**
+   - Facilitar brainstorms
+   - Validar viabilidade técnica
+
+3. ✅ **Resultado esperado:** Brainstorm até 15/06
+
+---
+
 ## 🎯 ACIONÁVEIS GERENCIAIS - O QUE VOCÊ FAZ
 
-### **HOJE 08/06 (2h30 - CRÍTICO)**
+### **HOJE 09/06 (2h - CRÍTICO)**
 
-#### ☐ **AÇÃO 1: Pixel Globo - Escalação Monks (30 min)**
+#### ☐ **AÇÃO 1: Acompanhar Pixel Globo (30 min)**
 ```
-"Monks/Akira - CRÍTICO.
+"Monks/Labs - Pixel Globo em andamento.
 
-Status: Prometido 03/06, recuou.
-Globo dependendo 100%.
-
-Vocês conseguem:
-1. Retomar implementação?
-2. Prazo realista?
-3. O que precisa de ajuda?"
+Prazo realista? Testes iniciaram? Precisa help?"
 ```
 
-#### ☐ **AÇÃO 2: Globo Felipe - Evento Checkout (15 min)**
-```
-"Felipe - Evento Checkout contra nossas políticas.
-
-Ofereço todos outros eventos + Pixel em 48h.
-Conseguem remover Checkout?"
-```
-
-#### ☐ **AÇÃO 3: Martech - Erro Cupom PLA (20 min)**
+#### ☐ **AÇÃO 2: Martech - Erro Cupom PLA (20 min)**
 ```
 "Martech - +11 promoções com erro de vinculação.
 
 Root cause? Timeline? Posso ajudar?"
 ```
 
-#### ☐ **AÇÃO 4: Produto - PDP x Busca (20 min)**
+#### ☐ **AÇÃO 3: Produto - PDP x Busca (20 min)**
 ```
 "Raul/Benny - Diferença >10% persiste.
 
 Root cause? Conseguem deep dive?"
 ```
 
-#### ☐ **AÇÃO 5: Mônica - Meta Free Shipping (15 min)**
+#### ☐ **AÇÃO 4: Mônica - Meta Free Shipping (15 min)**
 ```
 "Mônica - 17.8k vs 3k (83% diferença!).
 
 Timeline para alteração Score Experiência?"
 ```
 
-#### ☐ **AÇÃO 6: Validar Jessica - Tiktok Video (10 min)**
+#### ☐ **AÇÃO 5: Jessica - Tiktok Video (10 min)**
 ```
 "Jessica - Pode antecipar 12/06 para 10/06?
 Se não, qual é plan B?"
+```
+
+#### ☐ **AÇÃO 6: Validar P17 + Renata IA (15 min)**
+```
+"Mariele - Status dados históricos catálogo?
+Renata - MVPs IA, quando brainstorm?"
 ```
 
 **Meta:** 6/6 ações ✅ até EOD hoje
 
 ---
 
-### **PRÓXIMOS DIAS (09/06-17/06)**
+### **PRÓXIMOS DIAS (10/06-17/06)**
 
 #### 🗓️ **09/06 - SEGUNDA**
-- ✅ Pixel Globo implementado?
+- ✅ Pixel Globo publicado?
 - ✅ Cupom PLA root cause?
 - ✅ Meta Free Shipping timeline?
 
 #### 🗓️ **10/06 - TERÇA**
 - ✅ Vídeos Tiktok resolvidos? (Jessica)
 - ✅ PDP x Busca root cause?
+- ✅ P17 Status?
 
 #### 🗓️ **12/06 - QUINTA**
 - ✅ Jessica Tiktok agenda (se não conseguiu antes)
 - ✅ Deeplink document review?
+
+#### 🗓️ **15/06 - DOMINGO**
+- ✅ MVPs IA primeiro brainstorm?
 
 #### 🗓️ **17/06 - TERÇA**
 - ✅ Delivery Magalu quinzenal (Appsflyer limitations)
@@ -398,14 +430,14 @@ Se não, qual é plan B?"
 
 ## 📋 SUMÁRIO CONSOLIDADO
 
-### **✅ FINALIZADAS (102 - 71%)**
+### **✅ FINALIZADAS (103 - 72%)**
 ```
 Data Strenght, Roadmap, Consent Mode, Globo DTV (entrega),
 Acesso Lucas (email), Acesso Tomaz, Treinamento Appsflyer,
 Frete Grátis (slides), Bloqueio Cupons (CEL200, TEL100, TEL700),
 Processo Bloqueio (Merenda + Michel), Slides Frete Grátis,
 LPs (ajuste link), Destaque Mês, Delivery Magalu,
-Erros Deeplink doc, E muitas mais...
+Erros Deeplink doc, LP Pay Day Banner Hero, E muitas mais...
 ```
 
 ### **⌚ AGUARDANDO (22)**
@@ -436,11 +468,11 @@ E outros...
 
 ### **🗓️ AGENDADAS (6)**
 ```
+Pixel Globo (em andamento)
 Tiktok Video (12/06 Jessica)
-Pixel Globo (Labs definindo)
 Delivery Appsflyer (17/06)
 Frete Grátis (final 08/06)
-LP Pay Day (06/06)
+MVPs IA (Renata)
 Automatização Frete (08/06)
 ```
 
@@ -448,9 +480,10 @@ Automatização Frete (08/06)
 
 ## ⚠️ **ITENS CRÍTICOS DE ATENÇÃO**
 
-### **🆘 PIXEL GLOBO - HOJE!**
-- Monks recuou, especialista desesperada
-- **VOCÊ PRECISA ESCALAR HOJE**
+### **🔄 PIXEL GLOBO - AGORA EM ANDAMENTO**
+- API deprecada (não para setembro)
+- Monks em implementação
+- **Acompanhar prazo de publicação**
 
 ### **🔴 Cupom PLA - 11+ Erros**
 - Erro de vinculação produto-promoção
@@ -463,7 +496,7 @@ Automatização Frete (08/06)
 - **Timeline indefinida**
 
 ### **🟠 Especialista em SOBRECARGA EXTREMA**
-- 143 demandas em 6 semanas (~4/dia)
+- 144 demandas em 6 semanas (~4/dia)
 - Especialista "desesperada"
 - Domingo trabalhando (08/06)
 - **PRECISA REDUZIR CARGA OU ALOCAR HELP**
@@ -472,27 +505,24 @@ Automatização Frete (08/06)
 
 ## 💼 **TEMPLATES DE COMUNICAÇÃO**
 
-### **Template 1: Pixel Globo - Escalação Monks**
+### **Template 1: Acompanhar Pixel Globo**
 ```
-Assunto: [CRÍTICO] Pixel Globo GTM - Monks Recuou
+Assunto: [PROGRESSO] Pixel Globo GTM - Em Andamento
 
-Monks,
+Monks/Labs,
 
 SITUAÇÃO:
-- 03/06: Prometido finalizado para publicação
-- 18h 03/06: Monks recuou na implementação
-- 08/06: Globo esperando solução
+- API: Deprecada
+- Pixel: Agora prioritário
+- Status: Em desenvolvimento
 
-Globo ADIOU API inteira, 100% dependendo do Pixel.
+AÇÃO:
+Vocês conseguem:
+1. Prazo realista para publicação?
+2. Testes já iniciaram?
+3. Precisa de ajuda?
 
-AÇÃO URGENTE:
-Vocês conseguem retomar implementação?
-
-1. Qual é o bloqueador?
-2. Prazo realista?
-3. Como posso ajudar?
-
-Especialista está disponível 24/7 para resolver.
+Especialista está disponível para suportar.
 
 Obrigado,
 [Seu Nome]
@@ -526,26 +556,17 @@ Obrigado,
 [Seu Nome]
 ```
 
-### **Template 3: Produto - PDP x Busca Persistência**
+### **Template 3: Validar P17 - Dados Catálogo**
 ```
-Assunto: PDP x Busca - Diferença >10% Persiste
+Assunto: P17 - Dados Históricos Catálogo
 
-Raul/Benny,
+Mariele,
 
-PDP x Busca continua com >10% diferença 
-independente de ajustes.
+Informações pendentes do Google sobre dados 
+históricos do catálogo para acompanhamento.
 
-Raul já validou: "não importa como faça, diferença persiste".
-
-ISSO É:
-1. Problema de dados/API?
-2. Problema de lógica busca?
-3. Problema de integração ROI Hunter vs BM?
-
-AÇÃO:
-Conseguem fazer deep dive e identificar root cause?
-
-Especialista pode ajudar investigação.
+Conseguem fazer follow-up com Google?
+Quando conseguimos essas informações?
 
 Obrigado,
 [Seu Nome]
@@ -553,16 +574,16 @@ Obrigado,
 
 ---
 
-## ✅ **CHECKLIST FINAL PARA VOCÊ (08/06)**
+## ✅ **CHECKLIST FINAL PARA VOCÊ (09/06)**
 
 Antes de terminar o dia:
 
-- [ ] **Escala Pixel Globo** (Monks + Felipe)
+- [ ] **Acompanha Pixel Globo** (Monks/Labs)
 - [ ] **Escalação Cupom PLA** (Martech)
 - [ ] **Produto PDP x Busca** (Raul/Benny)
 - [ ] **Meta Free Shipping** (Mônica)
-- [ ] **Jessica Tiktok** (antecipar?)
-- [ ] **Avaliar especialista** (sobrecarga extrema!)
+- [ ] **Jessica Tiktok** (antecipação?)
+- [ ] **Valida P17 + Renata IA** (status)
 
 **Meta:** 6/6 ✅ até EOD
 
@@ -570,29 +591,31 @@ Antes de terminar o dia:
 
 ## 🎯 **RESUMO PARA SEU GESTOR**
 
-**Situação CRÍTICA (08/06):**
-- ✅ 102 demandas finalizadas (71%) - Ótimo!
-- 🆘 **Pixel Globo em EMERGÊNCIA** (Monks recuou)
+**Situação ATUALIZADA (09/06):**
+- ✅ 103 demandas finalizadas (72%) - Excelente!
+- 🔄 **Pixel Globo em ANDAMENTO** (API deprecada)
 - 🔴 **Cupom PLA com 11+ erros** (root cause?)
 - 🔴 **Meta Free Shipping 83% diferença** (massive!)
 - 🔴 **PDP x Busca persistente** (produto issue?)
+- 🟠 **MVPs IA em análise** (Renata)
 - ⚠️ **Especialista em sobrecarga extrema**
-  - 143 demandas em 6 semanas (4/dia!)
-  - Reportando "desesperada"
+  - 144 demandas em 6 semanas (4/dia!)
   - Trabalhando fim de semana
+  - **REDUZIR CARGA OU ALOCAR HELP**
 
 **Ações urgentes de você:**
-1. ✅ **Escalar Pixel Globo (HOJE!)** - Emergência
+1. ✅ **Acompanhar Pixel Globo** - Em progress
 2. ✅ **Pressionar Martech Cupom** (11+ erros)
 3. ✅ **Validar Produto PDP x Busca** (>10% persistente)
 4. ✅ **Acelerar Meta Free Shipping** (83% diferença!)
-5. ✅ **REDUZIR CARGA ESPECIALISTA** (urgente!)
+5. ✅ **Suportar MVPs IA** (Renata)
+6. ✅ **REDUZIR CARGA ESPECIALISTA** (urgente!)
 
-**Impacto:** ~2h gestão = evita crises + resolve bloqueadores + cuida da saúde do time
+**Impacto:** ~2h gestão = avança bloqueadores + cuida da saúde do time
 
 ---
 
-**Documento atualizado:** 08/06/2026 - 23:59  
+**Documento atualizado:** 09/06/2026 - 13:48  
 **Próxima atualização:** Quando você enviar novo status
 
-**Status Geral:** 📈 Bom progresso (71%), com 5 bloqueadores críticos HOJE + especialista em sobrecarga extrema que precisa intervenção gerencial URGENTE
+**Status Geral:** 📈 Excelente progresso (72%), com 5 bloqueadores críticos em resolução + novo MVP IA em análise + especialista em sobrecarga que precisa intervenção urgente
