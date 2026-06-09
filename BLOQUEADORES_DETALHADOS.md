@@ -1,7 +1,7 @@
 # 🎯 BLOQUEADORES DETALHADOS + ACIONÁVEIS GERENCIAIS
-**Período:** 28/04 - 08/06/2026  
+**Período:** 28/04 - 09/06/2026  
 **Para:** Gestor de Especialista  
-**Status:** 144 demandas mapeadas (update completo 02/06-08/06)
+**Status:** 144 demandas consolidadas (atualização 09/06)
 
 ---
 
@@ -10,563 +10,290 @@
 | Métrica | Total |
 |---------|-------|
 | **Total de Demandas** | 144 |
-| **✅ Finalizadas** | 103 |
-| **⌚ Aguardando** | 22 |
-| **🕵️ Investigação** | 13 |
-| **🗓️ Agendadas** | 6 |
+| **✅ Concluídas** | 6 |
+| **🔄 Em Andamento** | 3 |
+| **🗓️ Agendadas** | 2 |
+| **📚 Em Investigação** | 9 |
+| **⌚ Aguardando** | 8 |
+| **⏸️ Pausadas** | 1 |
+| **🔴 Críticas** | 2 |
 
-**Taxa de Conclusão:** 72% | **Acompanhamento Ativo:** 26%
-
----
-
-## 🚨 TOP 20 BLOQUEADORES CRÍTICOS ATUALIZADOS (08/06)
-
-| # | Demanda | Status | Bloqueador | Prazo | Ação Gerencial |
-|---|---------|--------|-----------|-------|----------------|
-| 🔴 P1 | **Pixel Globo GTM** | 🔄 Em Andamento | Monks mudou prio, recuou na implementação | **09/06** | 📞 Acompanhar Monks + Felipe |
-| 🔴 P2 | **Erro Cupom PLA Vinculação** | 📚 Investigação | 11+ promoções com erro + falta Promotion ID | **URGENTE** | 🔍 Root cause Martech |
-| 🔴 P3 | **Meta Free Shipping Discrepância** | 📚 Complexo | 17.8k produtos vs 3k nas campanhas (83% diferença!) | **Indefinido** | 🔄 Acelerar alteração Score Experiência (Mônica) |
-| 🔴 P4 | **Tiktok Vídeos Resolução** | 😶 Travado | Jessica agenda sobrecarregada, só 12/06 | **12/06** | 📞 Validar antecipação ou plan B |
-| 🔴 P5 | **PDP x Busca ROI Hunter vs BM** | 😶 Crítico | >10% diferença persistente, sem solução | **Indefinido** | 🚨 Escalação produto (Raul/Benny) |
-| 🟠 P6 | **Netflix Contrato Falhas Jurídicas** | 🗓️ Aguardando | Liveramp emitiu com graves falhas (multa 3x!) | **Indefinido** | ⚖️ Escalação jurídico urgente |
-| 🟠 P7 | **Shenlong Cupom Bloqueio** | 🕵️ Investigação | Erro na vinculação produto-promoção | **Indefinido** | 🔧 Martech investigando |
-| 🟠 P8 | **Erro Redirecionamento Instagram** | ⌚ Teste | Appsflyer removendo tela intermediária | **Pendente** | ⌚ Aguardando teste Lucas App |
-| 🟠 P9 | **Delivery Magalu Appsflyer Miniapp** | 🗓️ Agendado | Limitação de separação miniapp dentro Super app | **17/06** | 📋 Investigar workaround com Appsflyer |
-| 🔴 P10 | **Globo DTV API** | ❌ Deprecada | API deprecada, Pixel prioritário em andamento | **Em andamento** | 🔄 Acompanhar implementação Pixel |
-| 🟢 P11 | **Acesso Lucas SEO Kirk Flow** | ✅ Resolvido | Email senha estava errada, Help Desk resolvido | **03/06** | ✅ Finalizado |
-| 🟢 P12 | **LP Pay Day Banner Hero** | ✅ Resolvido | Monks alinhado, Ogilvy vai entregar | **06/06** | ✅ Finalizado |
-| 🟠 P13 | **Acesso LP Pay Day Dev** | ✅ Resolvido | Dev perdeu acesso email, Help Desk resolvido | **03/06** | ✅ Finalizado |
-| 🟠 P14 | **Automatização Frete Grátis** | 🗓️ Agendado | Slide para Marielle, ajustes final layout | **08/06** | 📋 Validar com Marielle + Felipe |
-| 🟠 P15 | **Implementação Pixel Globo Events** | 🗓️ Agendado | Globo pediu evento Checkout (contra políticas) | **Próx** | 📋 Remover Checkout, só outros eventos |
-| 🟠 P16 | **Dados Anotações Painel Iniciativas** | ⌚ Aguardando | Falta cupom que Pedro Kallebe ficou de arrumar | **Indefinido** | ⌚ Aguardando Pedro (Google) |
-| 🟡 P17 | **Dados Históricos Catálogo** | ⌚ Validar | Informações Google pendentes - VALIDAR STATUS | **Indefinido** | ⌚ Validar com Mariele/Google |
-| 🟠 P18 | **MVPs IA - Renata** | 🗓️ Agendado | Renata analisando oportunidades de uso de IA | **Em progresso** | 📊 Acompanhar análise Renata |
-| 🟠 P19 | **Product Ratings Canibalização** | 🕵️ Investigação | Investigação hipótese com Google | **Indefinido** | ⌚ Aguardando Google investigação |
-| 🟠 P20 | **Meta Free Shipping Score Experiência** | 📚 Complexo | Alteração para enviar por estado + score | **Indefinido** | 📋 Mônica definindo timeline |
+**Status Geral:** 27% Concluído | 73% Em Andamento/Acompanhamento
 
 ---
 
-## 📅 TIMELINE DETALHADA - ÚLTIMOS DIAS (02/06-08/06)
+## 🚨 TOP 22 DEMANDAS - STATUS CONSOLIDADO (09/06)
 
-### **02/06 - SEGUNDA**
-
-#### ✅ Finalizadas (5)
-- ✅ Data Strenght (acesso finalizado)
-- ✅ Abertura semanal (preenchimento)
-- ✅ Alinhamento roadmap (Natalia)
-- ✅ Automatização frete grátis (reunião)
-- ✅ Consent Mode (alinhado Data Strenght)
-
-#### 🗓️ Agendadas (4)
-- 🗓️ Globo DTV (finaliza 07/06)
-- 🗓️ Netflix Contrato (jurídico avalia)
-- 🗓️ Delivery Magalu Appsflyer (08/06)
-- 🗓️ Bloqueio Cupom (03/06 Merenda)
-
-#### ⌚ Aguardando (2)
-- ⌚ Tiktok Vídeos (ainda sem agenda)
-- ⌚ Dados históricos catálogo (Google pendente)
-
-#### 🕵️ Investigação (1)
-- 🕵️ Acesso Lucas SEO (senha errada)
-
----
-
-### **03/06 - TERÇA**
-
-#### ✅ Finalizadas (9)
-- ✅ Globo DTV (alinhamento Vanessa Lojas)
-- ✅ Acesso Lucas (resolvido email)
-- ✅ Acesso Tomaz Shenlong (Cris ajudar)
-- ✅ Acesso Dev BM Meta (já tinha acesso)
-- ✅ Treinamento Appsflyer (DP6 + Akira + Rafa + Lucas)
-- ✅ Consulta Frete Grátis (análise BQ)
-- ✅ Processo Bloqueio Cupom (Michel + Merenda)
-- ✅ Check Meta Alinhamento (EMQ)
-- ✅ Dados Appsflyer para Meta (Raul)
-- ✅ Bloqueio Cupons (CEL200, TEL100, TEL700)
-
-#### 🗓️ Agendadas (2)
-- 🗓️ LP Pay Day (06/06 - banner hero) ✅ RESOLVIDO
-- 🗓️ Automatização Frete Grátis (08/06)
-
-#### 🆘 EMERGÊNCIA (1)
-- 🆘 Pixel Globo GTM (Monks deu meia volta!)
-
-#### ⌚ Aguardando (1)
-- ⌚ Erro Redirecionamento Instagram (teste Lucas)
-
-#### 🕵️ Investigação (3)
-- 🕵️ Shenlong Bloqueio Cupom (investigando erro)
-- 🕵️ Atualização dados Anotações (falta cupom Pedro)
+| # | Demanda | Status | Bloqueador / Contexto | Prazo | Ação Gerencial |
+|---|---------|--------|----------------------|-------|----------------|
+| 🔴 P1 | **Erro Exibição Cupom PLA** | 🔴 CRÍTICO | Bombeiro Martech investigando vinculação erro | **URGENTE** | 📞 Acompanhar Martech urgentemente |
+| 🔴 P2 | **Metrificação LP Hub** | 📈 PROGRESSO | Aguardando finaliza��ão Martech | **URGENTE** | 📊 Pressionar Martech final |
+| 🔴 P3 | **Martech - Fila Saturada** | ⌚ Aguardando | 8+ demandas na fila | **Indefinido** | 📋 Status fila extra? |
+| 🟠 P4 | **Implementação Pixel Globo** | 🗓️ Aguardando Prazo | Definição das tags de rastreamento | **Em definição** | 📞 Validar tags + timeline |
+| 🟠 P5 | **Migração RH ↔ Shenlong** | ⌚ Aguardando | Teste RH não funcionou ainda | **Indefinido** | 🔧 Novo teste com Martech |
+| 🟠 P6 | **Netflix Troca Base** | ⌚ Aguardando | Jurídico/Privacy em processo | **Início junho** | ⚖️ Acompanhar jurídico |
+| 🟠 P7 | **Passback Tiktok** | 🗓️ Agendado | Aguardando ok time de Mkt Science | **Semana que vem** | 📋 Priorizar nas férias |
+| 🟠 P8 | **Bloqueios de Cupons** | 🕵️ Investigando | Entendimento dos erros de vinculação | **Indefinido** | 🔍 Acompanhar |
+| 🟠 P9 | **Erro Vídeo Tiktok Baixa Qualidade** | 🕵️ Investigando | Análise técnica do carregamento de mídia | **Indefinido** | ⌚ Acompanhar Jessica |
+| 🟠 P10 | **Erro Deeplink Android Tiktok DDL** | 🕵️ Investigando | Entendimento do erro do Browser | **Indefinido** | 💻 Acompanhar Labs |
+| 🟠 P11 | **Bloqueio Subcategorias** | ⏸️ PAUSADO | Fila Martech zerada | **Indefinido** | ⏰ Aguardar Martech |
+| 🟠 P12 | **Teste Busca x PDP Alerta Página** | 📈 PROGRESSO | Diferença de canais de comparação | **Em definição** | 📊 Acompanhar Benny |
+| 🟠 P13 | **Product Ratings Not Enabled** | 🕵️ Investigando | Feature desativada ou erro config | **Indefinido** | 🔍 Acompanhar Google |
+| 🟠 P14 | **MVPs Time IA** | 💬 SUPORTE | Definição do escopo dos mínimos viáveis | **Em definição** | 🤖 Acompanhar Renata |
+| 🟠 P15 | **Data Strength Acessos** | ✅ CONCLUÍDO | Depende de governança de dados | **Indefinido** | ✅ Acompanhar |
+| 🟠 P16 | **Treinamentos Appsflyer** | ✅ CONCLUÍDO | Alinhamento feito | **Próximos dias** | ✅ Acompanhar |
+| 🟠 P17 | **Delivery Magalu + Miniapp Appsflyer** | 🕵️ Investigando | Gap de metrificação em miniapp interno | **Em definição** | 🔍 Acompanhar limitations |
+| 🟠 P18 | **Meta Frete Grátis** | 🔄 EM ANDAMENTO | Parametrização das regras de negócio | **Próximo ciclo** | 📊 Acompanhar Mônica |
+| 🟠 P19 | **Cupom Exportar Dados** | ⌚ Aguardando | Exportar para planilha Marielle | **Indefinido** | 📋 Acompanhar Fernando |
+| 🟠 P20 | **Shenlong Cupom** | 🕵️ Investigando | Garantir funcionamento para Comercial | **Indefinido** | 🔧 Acompanhar Martech |
+| 🟠 P21 | **Bloqueio Termos PMAX** | 🕵️ Investigando | Revisão de termos | **Indefinido** | 🔍 Acompanhar |
+| 🟠 P22 | **LP Pay Day** | ✅ CONCLUÍDO | Pronto Junho, fluxo resolvido | **CONCLUÍDO** | ✅ Acompanhar |
 
 ---
 
-### **05/06 - QUINTA**
+## 📊 ANÁLISE CRÍTICA - PRIORIDADES
 
-#### ✅ Finalizadas (4)
-- ✅ Slides Frete Grátis (pré-Marielle)
-- ✅ Globo DTV (entrega final Merchant)
-- ✅ LPs (ajuste link seleção)
-- ✅ Destaque do Mês (Raul + foto)
+### **🔴 CRÍTICO #1: ERRO EXIBIÇÃO CUPOM PLA**
 
-#### ⌚ Aguardando (2)
-- ⌚ Produto Ratings (Google investigação)
-- ⌚ Cupom exportar dados (Fernando Luma)
+**Status:** 🔴 CRÍTICO - Bombeiro Martech trabalhando  
+**Bloqueador:** Produto não vinculando à promoção  
+**Impacto:** Cupons não funcionando, receita perdida  
+**O que você faz:** 📞 Acompanhar Martech urgentemente hoje
 
----
-
-### **08/06 - DOMINGO**
-
-#### ��� Finalizadas (4)
-- ✅ Ajuste Slides Frete Grátis (layout)
-- ✅ Documento Controle Erros (Deeplink + Atribuição)
-- ✅ Delivery Magalu Appsflyer (suporte metrificação)
-- ✅ Globo DTV (acompanhamento 07/06 completo!)
-
-#### 🗓️ Agendadas (2)
-- 🗓️ Vídeo Tiktok Jessica (12/06 - sobrecarregada!)
-- 🗓️ Pixel Globo (Labs definindo prazo)
-- 🗓️ Delivery Appsflyer (quinzenal 17/06)
-
-#### 📚 Estudos (2)
-- 📚 Meta Free Shipping (alteração Score Experiência)
-- 📚 Erro Cupom PLA (Promotion ID investigation)
-
----
-
-## 📊 ANÁLISE DETALHADA - BLOQUEADORES CRÍTICOS
-
-### **🔴 CRÍTICO #1: PIXEL GLOBO GTM - EM ANDAMENTO (09/06)**
-
-**Situação:**
-- 🔄 **EM ANDAMENTO** - Monks em progress
-- ❌ API foi DEPRECADA (não adiada para setembro)
-- ✅ Pixel é prioridade agora
-- ⚠️ Especialista estava desesperada mas agora em andamento
-
-**O que você precisa fazer:**
-
-1. 📞 **Acompanhar Monks + Labs:**
 ```
-"Monks/Labs - Pixel Globo em andamento.
+"Martech - Cupom PLA CRÍTICO.
 
-Status:
-- API: Deprecada
-- Pixel: Prioridade agora
-- Monks: Em development
+Status hoje?
+1. Root cause identificado?
+2. Solução em implementação?
+3. Quando volta ao normal?"
+```
 
-Vocês conseguem:
-1. Prazo realista para publicação?
+---
+
+### **🔴 CRÍTICO #2: METRIFICAÇÃO LP HUB**
+
+**Status:** 📈 PROGRESSO - Martech finalizando  
+**Bloqueador:** Aguardando conclusão Martech  
+**Impacto:** Não consegue medir performance LP até conclusão  
+**O que você faz:** 📊 Pressionar Martech para finalizar hoje
+
+```
+"Martech - Metrificação LP Hub URGENTE.
+
+Quando conseguem finalizar?
+1. Timeline realista?
 2. Testes já iniciaram?
-3. Precisa de help?"
+3. Precisa de ajuda?"
 ```
-
-2. 📞 **Validar com Felipe (Globo):**
-```
-"Felipe - Pixel Globo em implementação.
-
-Esperamos publicação até 09/06.
-Atualizamos conforme progresso."
-```
-
-3. ✅ **Resultado esperado:** Pixel publicado até 09/06
 
 ---
 
-### **🔴 CRÍTICO #2: ERRO CUPOM PLA - VINCULAÇÃO QUEBRADA**
+### **🟠 CRÍTICO #3: MARTECH - FILA SATURADA**
 
-**Situação:**
-- 🔴 Comercial reclamou que SKU não entrou com cupom
-- 🔴 Cupom estava ativo, mas produto NÃO foi vinculado à promoção
-- 🔴 Carregamento de associação erro!
-- 🔴 **+11 promoções com MESMO ERRO**
-- 🔴 LEVÁ15 também foi reprovada
-- 🔴 **Falta Promotion ID no cruzamento**
+**Status:** ⌚ Aguardando - 8+ demandas na fila  
+**Bloqueador:** Capacidade de Martech limitada  
+**Impacto:** Múltiplas demandas travadas esperando Martech  
+**O que você faz:** 📋 Validar status fila extra
 
-**O que você precisa fazer:**
-
-1. 🔍 **Liga Martech para aprofundamento:**
 ```
-"Martech - Erro Cupom PLA crítico.
+"Martech Lead,
 
-Problema: Produto não vinculando à promoção
-- Carregamento de associação error
-- Promotion ID faltando no cruzamento
-- +11 promoções com mesmo erro
-
-Vocês conseguem:
-1. Qual é a causa raiz?
-2. Por que 11 tiveram erro?
-3. Timeline para corrigir?"
+Fila continua com 8+ demandas?
+1. Qual é priorização atual?
+2. Timeline para cada uma?
+3. Precisamos terceirizar ou alocar mais recursos?"
 ```
-
-2. 📋 **Documentar:**
-   - Quais cupons afetados
-   - Timeline do erro
-   - Impacto em vendas
-
-3. ✅ **Resultado esperado:** Root cause até 10/06
-
----
-
-### **🔴 CRÍTICO #3: META FREE SHIPPING - DISCREPÂNCIA MASSIVA**
-
-**Situação:**
-- 📊 Enviando 17.8k produtos com frete grátis
-- 📊 BM mostra apenas 3k produtos (83% diferença!)
-- 📊 Visão Raul: só vê 3k nas campanhas
-- 🔄 **Solução proposta:** Alteração Score Experiência
-- ⏳ Mônica avaliando prazo para rodar alteração
-
-**O que você precisa fazer:**
-
-1. 📞 **Validar com Mônica + Marielle:**
-```
-"Mônica/Marielle - Meta Free Shipping 83% diferença.
-
-17.8k vs 3k é exponencial.
-
-Proposta: Score Experiência + Regra geoloc
-
-Vocês conseguem:
-1. Timeline para alterar?
-2. Quanto aumenta volume esperado?
-3. Impacto em ROI?"
-```
-
-2. **Se demora muito:**
-   - Você cria plan B interim
-   - Continua com 3k enquanto ajusta
-
-3. ✅ **Resultado esperado:** 
-   - Alteração testada até 15/06
-   - Rodando até 20/06
-
----
-
-### **🔴 CRÍTICO #4: TIKTOK VÍDEOS - RESOLUÇÃO BAIXA**
-
-**Situação:**
-- 😶 Jessica agenda **SOBRECARREGADA**
-- ⏰ Único horário: 12/06 (segunda-feira!)
-- 🔴 Vídeos qualidade baixa prejudicando desempenho
-- 📅 **Atraso de 1 semana desde 01/06**
-
-**O que você precisa fazer:**
-
-1. 📞 **Validar priorização com Jessica:**
-```
-"Jessica - Vídeos Tiktok qualidade baixa.
-
-Conseguimos 12/06 (segunda), mas já é tarde.
-Podemos antecipar para 10/06?
-
-Se não conseguir, qual é o plano B?"
-```
-
-2. **Se não conseguir 10/06:**
-   - Você escala para PO squad
-   - Encontra outro ponto de contato
-
-3. ✅ **Resultado esperado:** Resolução até 10/06
-
----
-
-### **🔴 CRÍTICO #5: PDP x BUSCA - PERSISTÊNCIA DO ERRO**
-
-**Situação:**
-- 😶 >10% diferença entre ROI Hunter e BM
-- 😶 Raul identificou: "não importa como faça"
-- 😶 Diferença persiste independente de ajustes
-- 😶 **Sem solução clara** ("Só Deus sabe")
-
-**O que você precisa fazer:**
-
-1. 🚨 **Escalação para Produto:**
-```
-"Raul/Benny - PDP x Busca persistente >10%.
-
-Raul já validou: não importa ajuste, diferença persiste.
-
-Isso é:
-1. Problema de dados/API?
-2. Problema de lógica de busca?
-3. Problema de ROI Hunter vs BM integração?
-
-Precisamos de root cause + solução.
-
-Conseguem deep dive?"
-```
-
-2. **Se é problema técnico:**
-   - Você facilita workshop com devs
-   - Define roadmap de correção
-
-3. ✅ **Resultado esperado:** Root cause até 12/06
-
----
-
-### **🟡 CRÍTICO #17: DADOS HISTÓRICOS CATÁLOGO - VALIDAR**
-
-**Situação:**
-- ⌚ Informações solicitadas por Mariele
-- ⌚ Algumas infos ainda pendentes do Google
-- 🟡 **STATUS PRECISA VALIDAÇÃO**
-
-**O que você precisa fazer:**
-
-1. 📞 **Validar com Mariele:**
-```
-"Mariele - Dados históricos catálogo.
-
-Status das informações pendentes do Google?
-Conseguem fazer follow-up?"
-```
-
-2. ✅ **Resultado esperado:** Status claro até amanhã
-
----
-
-### **🟠 NOVO: MVPs IA - RENATA ANALISANDO**
-
-**Situação:**
-- 🗓️ **Em progresso** - Renata analisando
-- 📊 Oportunidades de uso de IA com o time
-- 🔍 Análise em fase exploratória
-
-**O que você precisa fazer:**
-
-1. 📞 **Acompanhar Renata:**
-```
-"Renata - MVPs IA.
-
-Como está a análise de oportunidades?
-Quando teremos primeiro brainstorm?
-
-Especialista quer participar."
-```
-
-2. 📋 **Suportar:**
-   - Facilitar brainstorms
-   - Validar viabilidade técnica
-
-3. ✅ **Resultado esperado:** Brainstorm até 15/06
 
 ---
 
 ## 🎯 ACIONÁVEIS GERENCIAIS - O QUE VOCÊ FAZ
 
-### **HOJE 09/06 (2h - CRÍTICO)**
+### **HOJE 09/06 (1h30 - CRÍTICO)**
 
-#### ☐ **AÇÃO 1: Acompanhar Pixel Globo (30 min)**
+#### ☐ **AÇÃO 1: Martech - Cupom PLA CRÍTICO (20 min)**
 ```
-"Monks/Labs - Pixel Globo em andamento.
-
-Prazo realista? Testes iniciaram? Precisa help?"
-```
-
-#### ☐ **AÇÃO 2: Martech - Erro Cupom PLA (20 min)**
-```
-"Martech - +11 promoções com erro de vinculação.
-
-Root cause? Timeline? Posso ajudar?"
+"Martech - Status Cupom PLA URGENTE?
+Root cause? Solução? Timeline?"
 ```
 
-#### ☐ **AÇÃO 3: Produto - PDP x Busca (20 min)**
+#### ☐ **AÇÃO 2: Martech - LP Hub Metrificação (20 min)**
 ```
-"Raul/Benny - Diferença >10% persiste.
-
-Root cause? Conseguem deep dive?"
-```
-
-#### ☐ **AÇÃO 4: Mônica - Meta Free Shipping (15 min)**
-```
-"Mônica - 17.8k vs 3k (83% diferença!).
-
-Timeline para alteração Score Experiência?"
+"Martech - Quando finaliza metrificação LP Hub?
+Timeline realista?"
 ```
 
-#### ☐ **AÇÃO 5: Jessica - Tiktok Video (10 min)**
+#### ☐ **AÇÃO 3: Martech Lead - Fila Saturada (20 min)**
 ```
-"Jessica - Pode antecipar 12/06 para 10/06?
-Se não, qual é plan B?"
+"Martech - Fila continua 8+ demandas?
+Priorização? Timeline? Terceirizados?"
 ```
 
-#### ☐ **AÇÃO 6: Validar P17 + Renata IA (15 min)**
+#### ☐ **AÇÃO 4: Pixel Globo - Tags (15 min)**
 ```
-"Mariele - Status dados históricos catálogo?
-Renata - MVPs IA, quando brainstorm?"
+"Labs/Monks - Tags Pixel Globo definidas?
+Timeline para implementação?"
+```
+
+#### ☐ **AÇÃO 5: Passback Tiktok - Mkt Science (10 min)**
+```
+"Mkt Science - Ok Passback Tiktok?
+Timeline na semana que vem?"
+```
+
+#### ☐ **AÇÃO 6: Acompanhar 6+ outras demandas (15 min)**
+```
+Netflix, Shenlong, Appsflyer, Videos, Deep dive...
 ```
 
 **Meta:** 6/6 ações ✅ até EOD hoje
 
 ---
 
-### **PRÓXIMOS DIAS (10/06-17/06)**
+## 📋 DEMANDAS CONSOLIDADAS POR STATUS
 
-#### 🗓️ **09/06 - SEGUNDA**
-- ✅ Pixel Globo publicado?
-- ✅ Cupom PLA root cause?
-- ✅ Meta Free Shipping timeline?
-
-#### 🗓️ **10/06 - TERÇA**
-- ✅ Vídeos Tiktok resolvidos? (Jessica)
-- ✅ PDP x Busca root cause?
-- ✅ P17 Status?
-
-#### 🗓️ **12/06 - QUINTA**
-- ✅ Jessica Tiktok agenda (se não conseguiu antes)
-- ✅ Deeplink document review?
-
-#### 🗓️ **15/06 - DOMINGO**
-- ✅ MVPs IA primeiro brainstorm?
-
-#### 🗓️ **17/06 - TERÇA**
-- ✅ Delivery Magalu quinzenal (Appsflyer limitations)
-- ✅ Automatização Frete Grátis (08/06 baseline)
-
----
-
-## 📋 SUMÁRIO CONSOLIDADO
-
-### **✅ FINALIZADAS (103 - 72%)**
+### **✅ CONCLUÍDAS (6)**
 ```
-Data Strenght, Roadmap, Consent Mode, Globo DTV (entrega),
-Acesso Lucas (email), Acesso Tomaz, Treinamento Appsflyer,
-Frete Grátis (slides), Bloqueio Cupons (CEL200, TEL100, TEL700),
-Processo Bloqueio (Merenda + Michel), Slides Frete Grátis,
-LPs (ajuste link), Destaque Mês, Delivery Magalu,
-Erros Deeplink doc, LP Pay Day Banner Hero, E muitas mais...
+1. LP Pay Day - Pronto junho, fluxo resolvido
+2. Data Strength Acessos - Governança de dados
+3. Treinamentos Appsflyer - Alinhamento feito
+4. E 3 outras finalizadas...
 ```
 
-### **⌚ AGUARDANDO (22)**
+### **🔄 EM ANDAMENTO (3)**
 ```
-Netflix Contrato (jurídico)
-Tiktok Vídeos (Jessica 12/06)
-Erro Redirecionamento IG (Lucas teste)
-Produto Ratings (Google)
-Cupom dados (Fernando Luma)
-Meta Free Shipping (Mônica)
-Shenlong Bloqueio (investigação)
-Dados Anotações (Pedro cupom)
-Pixel Globo (Labs)
-Delivery quinzenal (17/06)
-E outros...
+1. Meta Frete Grátis - Parametrização regras
+2. E 2 outras em progresso...
 ```
 
-### **🕵️ INVESTIGAÇÃO (13)**
+### **🗓️ AGENDADAS (2)**
 ```
-Cupom PLA Vinculação (11+ erros)
-PDP x Busca (>10% persistente)
-Meta Free Shipping (83% diferença)
-Shenlong bloqueio erro
-Promotion ID cruzamento
-Ratings Product canibalização
-E outros...
+1. Passback Tiktok - Semana que vem (Mkt Science)
+2. Implementação Pixel Globo - Em definição
 ```
 
-### **🗓️ AGENDADAS (6)**
+### **🕵️ INVESTIGANDO (9)**
 ```
-Pixel Globo (em andamento)
-Tiktok Video (12/06 Jessica)
-Delivery Appsflyer (17/06)
-Frete Grátis (final 08/06)
-MVPs IA (Renata)
-Automatização Frete (08/06)
+1. Bloqueios Cupons - Erros de vinculação
+2. Vídeo Tiktok - Qualidade baixa (Jessica)
+3. Deeplink Android - Erro Browser
+4. Product Ratings - Feature ou config
+5. Delivery Miniapp - Gap metrificação
+6. Shenlong Cupom - Funcionamento
+7. Bloqueio Termos PMAX - Revisão
+8. E 2 outras investigações...
+```
+
+### **⌚ AGUARDANDO (8)**
+```
+1. Martech Fila - 8+ demandas
+2. RH ↔ Shenlong - Novo teste
+3. Netflix Contrato - Jurídico
+4. Pixel Globo - Tags
+5. Cupom Dados Export - Fernando
+6. E 3 outras aguardando...
+```
+
+### **⏸️ PAUSADAS (1)**
+```
+1. Bloqueio Subcategorias - Fila Martech zerada
+```
+
+### **🔴 CRÍTICAS (2)**
+```
+1. Erro Cupom PLA - Bombeiro Martech
+2. LP Hub Metrificação - Urgente
 ```
 
 ---
 
-## ⚠️ **ITENS CRÍTICOS DE ATENÇÃO**
+## ⚠️ **ALERTAS CRÍTICOS**
 
-### **🔄 PIXEL GLOBO - AGORA EM ANDAMENTO**
-- API deprecada (não para setembro)
-- Monks em implementação
-- **Acompanhar prazo de publicação**
+### **🔴 Martech é GARGALO CRÍTICO**
+- 8+ demandas na fila
+- Capacidade limitada
+- **Você precisa escalar para terceirizados ou mais recursos**
 
-### **🔴 Cupom PLA - 11+ Erros**
-- Erro de vinculação produto-promoção
-- Falta Promotion ID
-- **Root cause indefinido**
+### **🔴 Erro Cupom PLA em bombeiro**
+- Produto não vinculando
+- Receita sendo perdida
+- **Acompanhar Martech urgentemente**
 
-### **🔴 Meta Free Shipping - 83% Diferença**
-- 17.8k enviados vs 3k vistos
-- Score Experiência + geoloc = solução
-- **Timeline indefinida**
+### **🔴 LP Hub metrificação urgente**
+- Não consegue medir performance
+- Martech finalizando
+- **Pressionar para hoje**
 
-### **🟠 Especialista em SOBRECARGA EXTREMA**
-- 144 demandas em 6 semanas (~4/dia)
-- Especialista "desesperada"
-- Domingo trabalhando (08/06)
-- **PRECISA REDUZIR CARGA OU ALOCAR HELP**
+### **🟠 Especialista em férias em 2 semanas**
+- Passback Tiktok precisa priorizar
+- Múltiplas demandas em investigação
+- **Planejamento de cobertura crítico**
 
 ---
 
 ## 💼 **TEMPLATES DE COMUNICAÇÃO**
 
-### **Template 1: Acompanhar Pixel Globo**
+### **Template 1: Escalação Martech - Cupom PLA**
 ```
-Assunto: [PROGRESSO] Pixel Globo GTM - Em Andamento
-
-Monks/Labs,
-
-SITUAÇÃO:
-- API: Deprecada
-- Pixel: Agora prioritário
-- Status: Em desenvolvimento
-
-AÇÃO:
-Vocês conseguem:
-1. Prazo realista para publicação?
-2. Testes já iniciaram?
-3. Precisa de ajuda?
-
-Especialista está disponível para suportar.
-
-Obrigado,
-[Seu Nome]
-```
-
-### **Template 2: Martech - Cupom PLA Erro**
-```
-Assunto: [CRÍTICO] Cupom PLA - 11+ Promoções com Erro
+Assunto: [CRÍTICO] Cupom PLA - Erro em Bombeiro
 
 Martech,
 
-PROBLEMA:
-- Comercial reportou: SKU não vinculando à promoção
-- Carregamento de associação ERROR
-- **+11 promoções com MESMO ERRO**
-- Falta Promotion ID no cruzamento
+SITUAÇÃO:
+- Produto não vinculando à promoção
+- Cupoms não funcionando
+- Receita sendo perdida
+- Status: Bombeiro investigando
 
-IMPACTO:
-- Cupons não funcionando
-- Promoções reprovadas (LEVÁ15)
-- Receita perdida
+AÇÃO URGENTE:
+1. Root cause identificado?
+2. Solução em implementação?
+3. Quando volta ao normal?
 
-AÇÃO:
-1. Root cause?
-2. Qual é o erro específico?
-3. Timeline para corrigir?
-
-Preciso de resposta até EOD amanhã.
+Preciso de status HOJE.
 
 Obrigado,
 [Seu Nome]
 ```
 
-### **Template 3: Validar P17 - Dados Catálogo**
+### **Template 2: Pressão Martech - LP Hub**
 ```
-Assunto: P17 - Dados Históricos Catálogo
+Assunto: [URGENTE] Metrificação LP Hub - Timeline?
 
-Mariele,
+Martech,
 
-Informações pendentes do Google sobre dados 
-históricos do catálogo para acompanhamento.
+LP Hub está pronto, mas sem metrificação.
+Não conseguimos medir performance.
 
-Conseguem fazer follow-up com Google?
-Quando conseguimos essas informações?
+Vocês conseguem:
+1. Timeline para finalizar?
+2. Testes iniciaram?
+3. Posso alocar alguém para ajudar?
+
+Preciso da resposta para hoje.
+
+Obrigado,
+[Seu Nome]
+```
+
+### **Template 3: Validação Martech - Fila**
+```
+Assunto: Martech - Fila Saturada (8+ demandas)
+
+Martech Lead,
+
+Fila continua crítica com 8+ demandas:
+- RH ↔ Shenlong
+- Bloqueios Cupons
+- Shenlong Funcionalidade
+- E outras...
+
+AÇÃO:
+1. Qual é priorização?
+2. Timeline realista?
+3. Precisamos terceirizar ou mais recursos?
+
+Especialista também sai de férias em 2 semanas.
 
 Obrigado,
 [Seu Nome]
@@ -578,44 +305,40 @@ Obrigado,
 
 Antes de terminar o dia:
 
-- [ ] **Acompanha Pixel Globo** (Monks/Labs)
-- [ ] **Escalação Cupom PLA** (Martech)
-- [ ] **Produto PDP x Busca** (Raul/Benny)
-- [ ] **Meta Free Shipping** (Mônica)
-- [ ] **Jessica Tiktok** (antecipação?)
-- [ ] **Valida P17 + Renata IA** (status)
+- [ ] **Cupom PLA - Martech** (CRÍTICO!)
+- [ ] **LP Hub - Martech** (URGENTE!)
+- [ ] **Fila Martech** (8+ demandas)
+- [ ] **Pixel Globo** (tags)
+- [ ] **Passback Tiktok** (Mkt Science)
+- [ ] **6+ acompanhamentos** (outras demandas)
 
-**Meta:** 6/6 ✅ até EOD
+**Meta:** Todas as ações até EOD
 
 ---
 
 ## 🎯 **RESUMO PARA SEU GESTOR**
 
-**Situação ATUALIZADA (09/06):**
-- ✅ 103 demandas finalizadas (72%) - Excelente!
-- 🔄 **Pixel Globo em ANDAMENTO** (API deprecada)
-- 🔴 **Cupom PLA com 11+ erros** (root cause?)
-- 🔴 **Meta Free Shipping 83% diferença** (massive!)
-- 🔴 **PDP x Busca persistente** (produto issue?)
-- 🟠 **MVPs IA em análise** (Renata)
-- ⚠️ **Especialista em sobrecarga extrema**
-  - 144 demandas em 6 semanas (4/dia!)
-  - Trabalhando fim de semana
-  - **REDUZIR CARGA OU ALOCAR HELP**
+**Situação CONSOLIDADA (09/06):**
+- ✅ 6 demandas concluídas
+- 🔄 3 em andamento
+- 🕵️ 9 em investigação
+- ⌚ 8 aguardando retorno
+- 🔴 **2 CRÍTICAS (Cupom PLA + LP Hub metrificação)**
 
-**Ações urgentes de você:**
-1. ✅ **Acompanhar Pixel Globo** - Em progress
-2. ✅ **Pressionar Martech Cupom** (11+ erros)
-3. ✅ **Validar Produto PDP x Busca** (>10% persistente)
-4. ✅ **Acelerar Meta Free Shipping** (83% diferença!)
-5. ✅ **Suportar MVPs IA** (Renata)
-6. ✅ **REDUZIR CARGA ESPECIALISTA** (urgente!)
+**Bloqueador Principal:** Martech com fila saturada (8+ demandas)
 
-**Impacto:** ~2h gestão = avança bloqueadores + cuida da saúde do time
+**Ações urgentes:**
+1. ✅ **Cupom PLA CRÍTICO** - Acompanhar Martech
+2. ✅ **LP Hub URGENTE** - Pressionar Martech
+3. ✅ **Fila Martech** - Validar priorização
+4. ✅ **Planejamento férias** - Em 2 semanas!
+5. ✅ **Terceirização?** - Considerar para aliviar Martech
+
+**Impacto:** ~1h30 gestão = resolve críticos + desbloqueia fila + planeja férias
 
 ---
 
-**Documento atualizado:** 09/06/2026 - 13:48  
+**Documento atualizado:** 09/06/2026 - 14:15  
 **Próxima atualização:** Quando você enviar novo status
 
-**Status Geral:** 📈 Excelente progresso (72%), com 5 bloqueadores críticos em resolução + novo MVP IA em análise + especialista em sobrecarga que precisa intervenção urgente
+**Status Geral:** 📋 27% Concluído | 73% Em Andamento/Acompanhamento | 2 CRÍTICAS que precisam ação HOJE
