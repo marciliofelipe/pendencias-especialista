@@ -127,28 +127,217 @@ Bloqueio Subcategorias (fila Martech)
 
 ---
 
-## 🎯 CRÍTICOS EM FOCO
+## 🚨 CRÍTICOS EM FOCO - ANÁLISE DETALHADA
 
-### **🔴 CRÍTICO #1: CUPOM PLA REFATORAÇÃO**
-**Status:** Em processamento  
-**Bloqueador:** Depende de Refatoração de Promotion (Martech)  
-**O que fazer:** Validar timeline com Martech + priorização fila
+### **🔴 CRÍTICO #1: ERRO EXIBIÇÃO CUPOM PLA - REFATORAÇÃO DE PROMOTION**
+
+**Data de Início:** 09/06  
+**Status Atual:** 🔴 CRÍTICO - Em Processamento  
+**Responsáveis:** Martech (Refatoração), Comercial, Google  
+
+#### **Situação Completa:**
+```
+O QUÊ:
+- Cupons não estão sendo exibidos corretamente em anúncios PLA
+- 12 reprovações de promoções no mesmo período
+- Erro de vinculação produto-promoção no Google
+
+QUANDO COMEÇOU:
+- 09/06: Descoberta do erro
+
+POR QUÊ:
+- Código de refatoração de Promotion feito em JANEIRO foi apenas um "puxadinho"
+- Solução temporária para resolver volume grande de reprovações
+- Código gera mais ERROS do que resolve
+- Necessário reescrever completamente
+
+QUEM É RESPONSÁVEL:
+- Martech (implementação/fix)
+- Google (validação)
+- Comercial (aprovação)
+
+IMPACTO FINANCEIRO:
+- Cupons não funcionando = receita perdida
+- Promoções rejeitadas no Google
+- Clientes não conseguem usar ofertas
+- ROI de campanhas comprometido
+```
+
+#### **Timeline do Problema:**
+```
+Janeiro 2026:  "Puxadinho" temporário criado
+Maio-Junho:    Problema começa a aparecer
+09/06:         Descoberto + cobrança para imersão
+10/06:         Confirmado: Refatoração de Promotion é solução
+Atual:         Aguardando Martech processar fix
+```
+
+#### **O Que Está Sendo Feito:**
+```
+✅ Problema identificado
+✅ Root cause encontrado (código temporário)
+✅ Solução definida (Refatoração de Promotion)
+❌ Martech não iniciou fix ainda
+❌ Prazo ainda indefinido
+❌ Priorização na fila Martech indefinida
+```
+
+#### **O Que Você Precisa Fazer:**
+```
+HOJE:
+1. Liga Martech lead e pergunta:
+   - "Refatoração de Promotion está on roadmap?"
+   - "Qual é a prioridade na fila?"
+   - "Prazo realista para fix?"
+   - "Se não conseguem, terceirizamos?"
+
+2. Documenta:
+   - Impacto financeiro (quantos cupons/receita perdida)
+   - Timeline de degradação
+   - Clientes afetados
+
+3. Escalação se necessário:
+   - "Isso está custando DINHEIRO"
+   - "Precisamos de timeline ou alternativa"
+```
+
+#### **Próximas Ações:**
+```
+1. Validar timeline com Martech (HOJE)
+2. Se >1 semana, considerar terceirizados
+3. Acompanhar diariamente até fix
+4. Testar completamente post-fix
+5. Validar com Google após fix
+```
 
 ---
 
-### **🔴 CRÍTICO #2: PARTNERSHIP ADS ga_campaign**
-**Status:** Testing link-by-link (Labs + Monks)  
-**Bloqueador:** ga_campaign não dispara em CRM + Mídia  
-**O que fazer:** Acompanhar Akira/Labs para fix
+### **🔴 CRÍTICO #2: ERRO PARTNERSHIP ADS - ga_campaign Não Dispara**
+
+**Data de Início:** 09/06  
+**Status Atual:** 🔄 TESTING - Link-by-link com Labs + Monks  
+**Responsáveis:** Labs (fix), Monks (suporte), Akira (orquestração)  
+
+#### **Situação Completa:**
+```
+O QUÊ:
+- Evento ga_campaign NÃO DISPARA quando usuário acessa link de campanha
+- Usuário é redirecionado para app CORRETAMENTE
+- MAS evento de atribuição não é capturado
+- Sem o evento = dados de atribuição não chegam no GA4
+- Dados também NÃO chegam em plataformas de medição
+
+QUANDO COMEÇOU:
+- Unknown (descoberto 09/06 por investigação)
+
+POR QUÊ (HIPÓTESE ATUAL):
+- Yuri (Monks) investigou e encontrou:
+  * Link abre o app corretamente
+  * MAS ga_campaign event não dispara
+  * Event dispara em poucas ocasiões (por isso alguns dados existem)
+  * Maioria das vezes = SEM disparo
+
+ONDE ACONTECE:
+- Partnership Ads (Mídia)
+- CRM (mesma issue descoberta)
+- Provavelmente outras campanhas também
+
+QUEM É RESPONSÁVEL:
+- Labs (fix do código do app)
+- Monks (investigação/suporte)
+- Akira (orquestração)
+```
+
+#### **Timeline do Problema:**
+```
+Unknown:       Erro começou a acontecer
+09/06:         Descrito por Yuri (Monks)
+10/06:         Benhur alocado por Labs para teste
+10/06:         Começar testes link-by-link
+11/06:         Investigação continuando
+16/06:         Ainda testando, sem solução
+```
+
+#### **Como Está Sendo Investigado:**
+```
+Método: Link-by-link testing
+- Teste 1 link CRM
+- Teste 1 link Mídia
+- Teste 1 link x
+- Objetivo: Entender padrão de intermitência
+
+Esperado:
+1. Identificar qual link/cenário falha
+2. Reproduzir erro em ambiente controlado
+3. Root cause: app code, GA config, ou integration
+4. Implementar fix
+5. Validar completamente
+```
+
+#### **Impacto:**
+```
+CURTO PRAZO:
+- Dados de atribuição incompletos
+- GA4 não rastreia corretamente
+- Relatórios de performance errados
+- ROI de campanhas subestimado
+
+MÉDIO PRAZO:
+- Decisões de investment baseadas em dados errados
+- Campanhas podem ser pausadas por falta de visibilidade
+- Budget sendo desperdiçado
+
+LONGO PRAZO:
+- Falta de confiança em dados
+- Necessidade de audit completo
+```
+
+#### **O Que Você Precisa Fazer:**
+```
+HOJE:
+1. Liga Akira:
+   - "Status do testing link-by-link?"
+   - "Qual é o timeline para conclusão?"
+   - "Conseguem reproduzir erro?"
+
+2. Liga Benhur (Labs):
+   - "O que você descobriu testando?"
+   - "Root cause identificado?"
+   - "Prazo para fix?"
+
+3. Documenta:
+   - Quantas campanhas afetadas
+   - Impacto em dados de atribuição
+   - Timeline de descoberta
+
+PRÓXIMOS DIAS:
+1. Daily standup com Labs até fix
+2. Testar completamente post-fix
+3. Validar dados em GA4
+4. Audit campanhas histórico
+```
+
+#### **Solução Proposta:**
+```
+1. Identificar root cause (app code, GA config, ou integration)
+2. Implement fix no código do app
+3. Deploy fix
+4. Retest com todos os links
+5. Validar histórico de dados
+6. Documento lesson learned
+```
 
 ---
 
-## 🎁 **GRANDE SUCESSO: META FRETE GRÁTIS**
+## ⚠️ **COMPARAÇÃO CRÍTICOS**
 
-**Resultado:** 3K → 4.95M (1650% aumento!)  
-**Causa:** Alteração Score Experiência + Heleno  
-**Status:** ✅ CONCLUÍDO  
-**Ação:** Usar como case de sucesso
+| Aspecto | Cupom PLA | Partnership Ads |
+|---------|-----------|-----------------|
+| **Severidade** | Receita perdida | Dados comprometidos |
+| **Timeline** | Indefinido (fila Martech) | Em teste (dias) |
+| **Dependência** | Martech priority | Labs investigation |
+| **Impacto $** | Alto (cupons não funcionam) | Alto (dados errados) |
+| **Próx Passo** | Pressionar Martech | Acompanhar Labs daily |
 
 ---
 
@@ -158,29 +347,34 @@ Bloqueio Subcategorias (fila Martech)
 - Fila saturada
 - Refatoração Promotion crítica
 - Esforços indefinidos
+- **RECOMENDAÇÃO:** Terceirizar ou alocar mais recursos
 
-### **🔴 Globo DTV Multiplos Contatos**
-- Rafa não responde
-- Handover para Mari
-- Validar execução
+### **🔴 Partnership Ads Investigação**
+- Labs testando desde 10/06
+- Ainda sem solução identificada
+- **RISCO:** Continuar sem dados corretos
+- **RECOMENDAÇÃO:** Daily standup com Labs
 
-### **🔴 Help Desk Looping Carla**
-- VPN pedido 3x
-- Perdendo no sistema
-- Validar cadastro
+### **🔴 Cupom PLA Financeiro**
+- Cupons não funcionando
+- **RISCO:** Receita sendo perdida
+- **RECOMENDAÇÃO:** Urgência máxima em Martech
 
 ---
 
-## ✅ **CHECKLIST FINAL PARA VOCÊ (FÉRIAS)**
+## ✅ **CHECKLIST PARA GESTOR (FÉRIAS)**
 
-Antes de sair (férias em dias):
+**Antes de especialista sair:**
+- [ ] **Cupom PLA** - Timeline Martech confirmada
+- [ ] **Partnership Ads** - Daily standup agendado
+- [ ] **Documentação** - Tudo no repo
+- [ ] **Escalações** - Definidas + comunicadas
 
-- [ ] **Cupom PLA** - Timeline Martech?
-- [ ] **Partnership Ads** - Status Labs?
-- [ ] **Globo DTV** - Mari delegada ok?
-- [ ] **Help Desk Carla** - Resolvido?
-- [ ] **Passback Tiktok** - Prioritário?
-- [ ] **Handover férias** - Tudo documentado?
+**Enquanto especialista em férias:**
+- [ ] Daily acompanhamento Cupom PLA
+- [ ] Daily standup Partnership Ads
+- [ ] Update repo com progresso
+- [ ] Escalar se não houver progresso
 
 ---
 
@@ -189,20 +383,23 @@ Antes de sair (férias em dias):
 **Período 09/06-16/06:**
 - ✅ 28 demandas concluídas
 - 🔄 8 em andamento
-- 🔴 2 CRÍTICAS (Cupom PLA + Partnership Ads)
+- 🔴 **2 CRÍTICAS que precisam DAILY MONITOR:**
+  1. Cupom PLA (Martech priority)
+  2. Partnership Ads (Labs investigation)
 - 🎁 1 GRANDE SUCESSO (Meta 3K → 4.95M!)
-- 📅 **Especialista sai de férias AGORA**
+- 📅 **Especialista entrou em férias** (16/06)
 
-**Bloqueadores:** Martech fila + Help Desk + Labs
+**Bloqueadores:** Martech fila + Labs investigation
 
 **Handovers críticos:**
 1. Globo DTV → Mari
 2. Passback Tiktok → Mkt Science
-3. Múltiplos acompanhamentos documentados
+3. **Cupom PLA → Martech (DAILY)**
+4. **Partnership Ads → Labs (DAILY)**
 
 ---
 
 **Documento atualizado:** 16/06/2026 - 14:17  
 **Status:** Especialista em férias, 56% concluído, 2 críticas em monitoramento
 
-**Próximos passos:** Monitor remoto férias + escalações documentadas
+**Próximos passos:** Daily monitor críticos + escalações conforme necessário
